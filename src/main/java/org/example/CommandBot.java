@@ -20,10 +20,11 @@ import java.net.http.HttpResponse;
 import java.util.Random;
 
 public class CommandBot extends TelegramLongPollingBot {
-    private String apiKey = "3DKGnAFcgzn2R61wLwj716sn";
+    //имя SearchBot
+    private String apiKey = "api ключ";
     private String nameImg;
-    private final String userName = "SearchBot";
-    private final String botToken = "6687958514:AAHPof24eaUsNvlOYc4Y8a0FzhH18bx2DX8";
+    private final String userName = "имя бота";
+    private final String botToken = "токен бота";
     @Override
     public String getBotUsername() {
         return userName;
