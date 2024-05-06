@@ -1,1494 +1,1328 @@
 {
   "search_metadata": {
-    "id": "search_MZ18NJlvnOYIgdB3Zk3BOm7g",
+    "id": "search_zrpB8WlvR38SlaKKmkXOyEn1",
     "status": "Success",
-    "created_at": "2024-05-06T16:37:13Z",
-    "request_time_taken": 2.19,
-    "parsing_time_taken": 0.06,
-    "total_time_taken": 2.26,
-    "request_url": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&oq=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&gl=us&hl=en&tbm=isch&ie=UTF-8&udm=2",
-    "html_url": "https://www.searchapi.io/api/v1/searches/search_MZ18NJlvnOYIgdB3Zk3BOm7g.html",
-    "json_url": "https://www.searchapi.io/api/v1/searches/search_MZ18NJlvnOYIgdB3Zk3BOm7g"
+    "created_at": "2024-05-06T19:51:13Z",
+    "request_time_taken": 3.14,
+    "parsing_time_taken": 0.02,
+    "total_time_taken": 3.16,
+    "request_url": "https://www.google.com/search?q=json_%D0%B1%D1%83%D0%B4%D0%B5%D1%82_%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F&oq=json_%D0%B1%D1%83%D0%B4%D0%B5%D1%82_%D0%BC%D0%B5%D0%BD%D1%8F%D1%82%D1%8C%D1%81%D1%8F&gl=us&hl=en&tbm=isch&ie=UTF-8&udm=2",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_zrpB8WlvR38SlaKKmkXOyEn1.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_zrpB8WlvR38SlaKKmkXOyEn1"
   },
   "search_parameters": {
     "engine": "google_images",
-    "q": "кацуба",
+    "q": "json_будет_меняться",
     "device": "desktop",
     "google_domain": "google.com",
     "hl": "en",
     "gl": "us"
   },
   "search_information": {
-    "query_displayed": "кацуба"
+    "query_displayed": "json_будет_меняться"
   },
-  "suggestions": [
-    {
-      "title": "марина",
-      "chips": "q:кацуба,online_chips:марина:2Di4_6Ekw6Q=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0:2Di4_6Ekw6Q%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoAHoECAEQMA",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVzw7MLBWl2fUgAbOGoDrqYQ8z-tn4V30iVNF5RmmOzg-IyzS&usqp=CAU"
-    },
-    {
-      "title": "александр кацуба владимир",
-      "chips": "q:кацуба,online_chips:александр кацуба владимир:D8Erainkt-c=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0+%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80:D8Erainkt-c%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoAXoECAEQMg",
-      "thumbnail": "data:image/jpeg;base64,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"
-    },
-    {
-      "title": "сергей кацуба",
-      "chips": "q:кацуба,online_chips:сергей кацуба:rXyGdHjh3A4=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9+%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0:rXyGdHjh3A4%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoAnoECAEQNA",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdImQGme7UCzl4WyQXLb6y969o2iePppTvHpLaLuRH-EsnENq&usqp=CAU"
-    },
-    {
-      "title": "шаман",
-      "chips": "q:кацуба,online_chips:шаман:XIXH2ZUGKvM=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D1%88%D0%B0%D0%BC%D0%B0%D0%BD:XIXH2ZUGKvM%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoA3oECAEQNg",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94b0ZuXA3iR7AlOieXcFdVmbndrOk8l3RbBYX2jAffXh8TXwy&usqp=CAU"
-    },
-    {
-      "title": "кацуба олександр",
-      "chips": "q:кацуба,online_chips:кацуба олександр:MkQIGvRL5NE=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0+%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80:MkQIGvRL5NE%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoBHoECAEQOA",
-      "thumbnail": "data:image/jpeg;base64,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"
-    },
-    {
-      "title": "versus",
-      "chips": "q:кацуба,online_chips:versus:AeLXf4viic8=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:versus:AeLXf4viic8%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoBXoECAEQOg",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfH56k4oPX1_ZdyD_W3dbaZrklBg-HR7c5URvyGifqXtN65WLj&usqp=CAU"
-    },
-    {
-      "title": "сергей владимирович",
-      "chips": "q:кацуба,online_chips:сергей владимирович:wBpdJovz4MM=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9+%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87:wBpdJovz4MM%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoBnoECAEQPA",
-      "thumbnail": "data:image/jpeg;base64,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"
-    },
-    {
-      "title": "versus battle",
-      "chips": "q:кацуба,online_chips:versus battle:yLUNwVA9x1M=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:versus+battle:yLUNwVA9x1M%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoB3oECAEQPg",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWfAXnafwVVzKQZ4rXgo6L3pQSJMSIHFAcPO87viMxP5xzTE1M&usqp=CAU"
-    },
-    {
-      "title": "поэтесса",
-      "chips": "q:кацуба,online_chips:поэтесса:5uozV3AeW54=",
-      "link": "https://www.google.com/search?q=%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&chips=q:%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0,online_chips:%D0%BF%D0%BE%D1%8D%D1%82%D0%B5%D1%81%D1%81%D0%B0:5uozV3AeW54%3D&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQ4lYoCHoECAEQQA",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT4TeKO06BKAyxpBdlf4q7GhjNJ5aSx2b2448JUPXeOJaGfQzI&usqp=CAU"
-    }
-  ],
   "images": [
     {
       "position": 1,
-      "title": "Кацуба, Сергей Владимирович — Википедия",
+      "title": "JSON Editor Online: edit JSON, format JSON, query JSON",
       "source": {
-        "name": "Википедия",
-        "link": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+        "name": "jsoneditoronline.org",
+        "link": "https://jsoneditoronline.org/"
       },
       "original": {
-        "link": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kacuba_S_V.jpg",
-        "width": 1795,
-        "height": 1205
+        "link": "https://jsoneditoronline.org/images/news/smart_json_formatting.png",
+        "width": 549,
+        "height": 351
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xZueU4lo5DO5Xp7ahqGRe6H-_5pQileQr7vEChH59mTHTYoLlPedBS7iWg1YG4-ZI8M&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu3hHE33gBFRauMhaIBfve_58RP1KMoLlrGGsAbC8SHOKeCsjaMdcUnbELwywE6zg3RXY&usqp=CAU"
     },
     {
       "position": 2,
-      "title": "Беременная звезда Versus Battle Марина Кацуба попросила денег у поклонников  | STARHIT",
+      "title": "JSON Editor Online: edit JSON, format JSON, query JSON",
       "source": {
-        "name": "StarHit",
-        "link": "https://www.starhit.ru/novosti/beremennaya-zvezda-versus-battle-marina-katsuba-poprosila-deneg-u-poklonnikov-224831/"
+        "name": "jsoneditoronline.org",
+        "link": "https://jsoneditoronline.org/"
       },
       "original": {
-        "link": "https://n1s2.hsmedia.ru/84/78/5f/84785fa60263116bf1ad106dd19f11dd/479x497_0xac120003_7602154671604240511.jpg",
-        "width": 479,
-        "height": 497
+        "link": "https://jsoneditoronline.org/images/news/table_mode_search_and_replace.png",
+        "width": 596,
+        "height": 292
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5AgstjCaV2jatJXAUuzvW3stiKdnfl2R6_0wo-S8jMWe2TV2fIMpx_qOn0MXCrWtQw60&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2t4G5RXeCxw3WA-c5B1oK1yWIfc6iJL2-Hbd8JqBoIvvkFeTbvBNjXP5Df0rcItRXV_E&usqp=CAU"
     },
     {
       "position": 3,
-      "title": "Александр Кацуба: Товарищи из \"Народного фронта\" национализировали бензин  \"Нафтогаза\", а не Курченко | Экономическая правда",
+      "title": "php - json_decode returns JSON_ERROR_SYNTAX but online formatter says the  JSON is OK - Stack Overflow",
       "source": {
-        "name": "Економічна правда",
-        "link": "https://www.epravda.com.ua/rus/publications/2021/03/19/672081/"
+        "name": "Stack Overflow",
+        "link": "https://stackoverflow.com/questions/17219916/json-decode-returns-json-error-syntax-but-online-formatter-says-the-json-is-ok"
       },
       "original": {
-        "link": "https://eimg.pravda.com/images/doc/7/f/7f97366-690.jpg",
-        "width": 690,
-        "height": 426
+        "link": "https://i.stack.imgur.com/cTNlw.png",
+        "width": 1600,
+        "height": 988
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRvUEovr9t-C_bamhFw_h3skaz4z7KER3UBZwSrJAXCjaERRzvndtoSjZRUWreLAhalIg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLPIoTTGNJFXQcCOo_0WlufwMUYzktEopJ29o6mFRL9qUmbAzcyxnjMS0yfGeJTxAMHuQ&usqp=CAU"
     },
     {
       "position": 4,
-      "title": "Звезда Versus Battle Марина Кацуба случайно забеременела от перуанского  шамана | STARHIT",
+      "title": "JSON Editor Online: edit JSON, format JSON, query JSON",
       "source": {
-        "name": "StarHit",
-        "link": "https://www.starhit.ru/novosti/zvezda-versus-battle-marina-katsuba-sluchayno-zaberemenela-ot-peruanskogo-shamana-223715/"
+        "name": "jsoneditoronline.org",
+        "link": "https://jsoneditoronline.org/"
       },
       "original": {
-        "link": "https://n1s2.hsmedia.ru/3c/81/72/3c81722a0bbd10d0fba10ae4e0b9c4bf/480x497_0xac120003_3267958751603002164.jpg",
-        "width": 480,
-        "height": 497
+        "link": "https://jsoneditoronline.org/images/news/import_csv.png",
+        "width": 448,
+        "height": 397
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2sU5CSymkGEuKQgcGp3JJFsgB7bl52jDDyotylSnPMWJJVmk1IYN2G-g9PvdHSj2iy4&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMxWePDopF1ODvpzKgpehHyL8W9jPwPI6JyxsiPGQvgm3nDmgjWRZuWuAVA3Av1n6rKQ&usqp=CAU"
     },
     {
       "position": 5,
-      "title": "Марина Кацуба | Баттл-рэп России вики | Fandom",
+      "title": "JSONata",
       "source": {
-        "name": "battleraprus.fandom.com",
-        "link": "https://battleraprus.fandom.com/ru/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0"
+        "name": "jsonata.org",
+        "link": "https://jsonata.org/"
       },
       "original": {
-        "link": "https://static.wikia.nocookie.net/battleraprus/images/1/16/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0_%D0%B4%D0%BB%D1%8F%D0%B2%D0%B8%D0%BA%D0%B8.jpg/revision/latest?cb=20200105174939&path-prefix=ru",
-        "width": 1080,
-        "height": 720
+        "link": "https://jsonata.org/images/jsonata256.png",
+        "width": 256,
+        "height": 256
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSLzC64jts38RrU5KHAbmTVmr5xImUMS1Led55ftLZ5wkEmGCi5JoFJkBT8RtJ-QFYuI&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-6_4ew7C9bh5Eq7D3JgbWfbb2N9B996CVe9OC6XNoO9h4YwjVndX-V8Ss4dxaAfM6Z0&usqp=CAU"
     },
     {
       "position": 6,
-      "title": "Задержан Кацуба, который покупал ''вышки Бойко'' | Украинская правда",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Українська правда",
-        "link": "https://www.pravda.com.ua/rus/news/2016/06/17/7112157/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://img.pravda.com/images/doc/f/5/f5b1fb8-------.jpg",
-        "width": 485,
-        "height": 299
+        "link": "https://wiki.rpa-robin.ru/_images/J11.png",
+        "width": 668,
+        "height": 465
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwu30OhRzYeDAh_6cFZLUdnb3rJPJbUE2COkDhPN9A3GH0KF4KE8pYTmRe_L8-EYQ40ZM&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdigUNubM96HbD3uavHsSDmoQ-XZw7I7at4fryAaJgRtwUbm6DFVBRhP8cGjOV7RnTA8&usqp=CAU"
     },
     {
       "position": 7,
-      "title": "Александр Кацуба: Если собираетесь работать во Вьетнаме, будьте готовы к  микроменеджменту — Минфин",
+      "title": "JSONata",
       "source": {
-        "name": "minfin.com.ua",
-        "link": "https://minfin.com.ua/2023/05/11/105601138/"
+        "name": "jsonata.org",
+        "link": "https://jsonata.org/"
       },
       "original": {
-        "link": "https://minfin.com.ua/files/image/IMG_9681.JPG",
-        "width": 800,
-        "height": 1200
+        "link": "https://jsonata.org/images/jsonata-button.png",
+        "width": 256,
+        "height": 256
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJAppBjLByFUPFH2EM1L1JKY6bNKjqBaM3XDiJTa212Dz0JohF6DmHXUuvcyrkc99cbt0&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzH21Z9H7p_ZH7RAueW5wtXaTaWny48JfnFqj65ZPVvuGsKDPGbZJ4s2MaPvoRhj1_naQ&usqp=CAU"
     },
     {
       "position": 8,
-      "title": "Александр Кацуба: Товарищи из \"Народного фронта\" национализировали бензин  \"Нафтогаза\", а не Курченко | Экономическая правда",
+      "title": "Не обновить и не создать записи. Ответ не является допустимым ответом JSON?  — Хабр Q&A",
       "source": {
-        "name": "Економічна правда",
-        "link": "https://www.epravda.com.ua/rus/publications/2021/03/19/672081/"
+        "name": "Хабр Q&A - Habr",
+        "link": "https://qna.habr.com/q/686520"
       },
       "original": {
-        "link": "https://eimg.pravda.com/images/doc/d/6/d6e6feb-cb35965--------.jpg",
-        "width": 450,
-        "height": 653
+        "link": "https://habrastorage.org/webt/5d/d6/fb/5dd6fbe217b53002715805.png",
+        "width": 1920,
+        "height": 865
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbidZg0r9KXncut8FpWsZH5R6BQ452PufMH9_Lu82_uj0eMuD-xeNkS9sVXDGrOen2SxE&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSl1DE210w5ClRHndsnDiHt3zZlgiwsIXOK3gsxTbYlOVBOuOmbFCCOkhNy0acGa9a228&usqp=CAU"
     },
     {
       "position": 9,
-      "title": "Александр Кацуба: ничего смертельного в бизнесе с друзьями нет, но есть  одно но",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Факти ICTV",
-        "link": "https://fakty.com.ua/ru/ukraine/ekonomika/20230510-oleksandra-kaczuba-nichogo-smertelnogo-v-biznesi-z-druzyamy-nemaye-ale-ye-odne-ale/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://cdn.fakty.com.ua/wp-content/uploads/2023/05/10/img_6621-2.jpg",
-        "width": 1280,
-        "height": 720
+        "link": "https://wiki.rpa-robin.ru/_images/J211.png",
+        "width": 1210,
+        "height": 464
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKfhmd4JC9SqhNHjfmzJ-QPdz9i_2TDLvXr21I0bUCnWSpxOlYVqZnmVRwRLJ1dGNSV8&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu9AjxpX_duCRJB-lXCu5GoJDvP8C2pN-iZ5U5ds78g7eiWPQul1Xbg69II6geq1Vzl1c&usqp=CAU"
     },
     {
       "position": 10,
-      "title": "Кацуба Александр Владимирович - Досье на LB.ua",
+      "title": "JSON Editor Online: edit JSON, format JSON, query JSON",
       "source": {
-        "name": "LB.ua",
-        "link": "https://rus.lb.ua/file/person/3044_katsuba_aleksandr_vladimirovich.html"
+        "name": "jsoneditoronline.org",
+        "link": "https://jsoneditoronline.org/"
       },
       "original": {
-        "link": "https://i.lb.ua/063/08/63d3a10a56a97.jpeg",
-        "width": 200,
-        "height": 200
+        "link": "https://jsoneditoronline.org/favicon.png",
+        "width": 256,
+        "height": 256
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyd-sHoCuZxn7HWcqW_SaOyOGcO-IesJpipbwSK7wPzeGYKL3E62mV3heBlWo5sNhFCQc&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dlVTGJ2FXc90XWV0NW5OACf9tXcXk_8W4v4dOIpLLthnWZZ4dxAfwBOVi4LTe1ijkPg&usqp=CAU"
     },
     {
       "position": 11,
-      "title": "Александр Кацуба, бизнесмен и политик",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "dumka.media",
-        "link": "https://dumka.media/rus/dossier/katsuba-oleksandr-volodimirovich"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://dumka.media/static/ckef/img/photo_2024-02-28_19-18-27.jpg",
-        "width": 960,
-        "height": 1280
+        "link": "https://wiki.rpa-robin.ru/_images/J47.png",
+        "width": 1911,
+        "height": 1014
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5OpveipH-uCyPGrFg6rdA7187KFRj5DPA03237UxgcQLDM8fq7Ik0JcGBrQEPo9AnxE&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgTrBWeG1UfW6DZlSP2IddRyMFJvXRgfL76bqaJjzK6PZOYhcZnyhw15ThEXSUM0Jug&usqp=CAU"
     },
     {
       "position": 12,
-      "title": "Один из предполагаемых экс-спонсоров Шария встретился с президентом  Зеленским (фото)",
+      "title": "How I fixed PHP json_encode() returning empty result | by Onwuka Gideon |  Medium",
       "source": {
-        "name": "Фокус",
-        "link": "https://focus.ua/ukraine/475260-odin-iz-yakoby-eks-sponsorov-shariya-vstretilsya-s-zelenskim-foto"
+        "name": "Medium",
+        "link": "https://medium.com/@onwuka_gideon/how-i-fixed-php-json-encode-returning-empty-result-e4ef97638ea1"
       },
       "original": {
-        "link": "https://focus.ua/static/storage/thumbs/920x465/0/a8/56f23521-d07f0592b7529c7f9fe4f710739b2a80.jpg?v=9128_1",
-        "width": 920,
-        "height": 465
+        "link": "https://miro.medium.com/v2/resize:fit:1358/1*p4Q04dYnrW16s7mVfXhXRQ.png",
+        "width": 1358,
+        "height": 709
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnD614rJlcd5foTerXacwZZ_Un_Xr0wQ1G4SHUFiYhgsgTcLRabFyRFzezVSJFdQSy5PA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwXpUo0VJTVG8rbT6eTtoaKZqJux6VI9pvFSfyBenLD1Sq247PdwHT8obo7JNp9FHyMc&usqp=CAU"
     },
     {
       "position": 13,
-      "title": "Александр Кацуба - новости сегодня, биография, фото, видео, история жизни |  OBOZ.UA",
+      "title": "JSON Helper | Adobe Exchange",
       "source": {
-        "name": "Obozrevatel",
-        "link": "https://www.obozrevatel.com/person/aleksandr-katsuba.htm"
+        "name": "Adobe Exchange",
+        "link": "https://exchange.adobe.com/apps/ec/106449"
       },
       "original": {
-        "link": "https://i.obozrevatel.com/person/2022/11/8/photo2022-11-0716-47-591.jpg?size=180x180",
-        "width": 180,
-        "height": 180
+        "link": "https://106449.s2s.adobe-addons.com/distribute/media/106449/featured/106449-1aaac3b2-5e5c-4abd-af1c-877b378f0965.jpg",
+        "width": 1360,
+        "height": 800
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lKGLUhXd99NMrS5gQYmJ7BmZYVqqx3KdmeOSMOHE6LqeNIY8uzECa3prNyrBYNdanwk&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmMm0oQQSSbc-paeqaSZTcCIHIsepAGrgY1CoclH7GfximgJgw902G-aZubETzx9R_hw&usqp=CAU"
     },
     {
       "position": 14,
-      "title": "Мирон и Марина Кацуба",
+      "title": "not our bug] Unable to read 'format.json' from  http://ip:9000/data-mi/data1: Expected 'storage' API version 'v20', instead  found 'a1', please upgrade the servers · Issue #10529 · minio/minio · GitHub",
       "source": {
-        "name": "Pinterest",
-        "link": "https://nz.pinterest.com/pin/498844096206957523/?send=true"
+        "name": "GitHub",
+        "link": "https://github.com/minio/minio/issues/10529"
       },
       "original": {
-        "link": "https://i.pinimg.com/736x/37/6c/0c/376c0c6b3a7b2dcefacc0953dbf99afd.jpg",
-        "width": 736,
-        "height": 490
+        "link": "https://user-images.githubusercontent.com/848930/93861441-1a7eee00-fcf3-11ea-927b-3f85a36ebd17.png",
+        "width": 1278,
+        "height": 562
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiMlhUPAt0z26D4hgGEn4N4xAPf41iXUT_hZ76sWplaPMAkyYQ_jZTHc-u0U0eFP51eY&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPqQ4st407f9zG1UHpCrW3niT5hSv452xnlqv-hsbFJwvOT81Sn3iDy7kqVPyaPvNuXw&usqp=CAU"
     },
     {
       "position": 15,
-      "title": "Кацуба возместил государству 100 миллионов – ГПУ | Украинская правда",
+      "title": "java - Spring Boot @ManyToMany not showing in JSON - Stack Overflow",
       "source": {
-        "name": "Українська правда",
-        "link": "https://www.pravda.com.ua/rus/news/2017/02/15/7135452/"
+        "name": "Stack Overflow",
+        "link": "https://stackoverflow.com/questions/50161852/spring-boot-manytomany-not-showing-in-json"
       },
       "original": {
-        "link": "https://img.pravda.com/images/doc/c/b/cb5cfa6-katcuba.jpg",
-        "width": 485,
-        "height": 299
+        "link": "https://i.stack.imgur.com/yt4kn.png",
+        "width": 685,
+        "height": 284
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGSNGwnYH3au-LHPV0n2pnqDgTiNwRCsexxpi2DFajBhJs8u0uLJLLQiKqLA25xfSxxJQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJDEVKlnRD_k1x0DEryxfjffW3JIWEU8qfjjz76l5_vfKhMATCaBoQZi7eTuuMAYsZis&usqp=CAU"
     },
     {
       "position": 16,
-      "title": "Всего один день медитировала с перуанским шаманом...И забеременела. Гори он  в аду...\"...",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "LiveJournal",
-        "link": "https://amarok-man.livejournal.com/5521831.html"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://api.eric.s3storage.ru/super-static/prod/5f8d5faed33def76146ca592-1900x.jpeg",
-        "width": 1900,
-        "height": 1267
+        "link": "https://wiki.rpa-robin.ru/_images/J9.png",
+        "width": 748,
+        "height": 410
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllTObTCt6P4UGwd3qCUv_-c-SSpJ9qeOFv4pLoQ5CpUQPXvTgEPpsVn2s3KnhdJ4DEsE&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Xb7EdOS7KTUibtPb89xq5NvcoGxPfbeTShSCmpX0eP5CwjuDG531t-4L_DGFxOvJNjk&usqp=CAU"
     },
     {
       "position": 17,
-      "title": "GATE31 x Марина Кацуба",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "GATE31",
-        "link": "https://www.gate31.ru/blogs/shooting/gate31-x-marina-katsuba"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://static.insales-cdn.com/files/1/907/3539851/original/kacuba-03.jpg",
-        "width": 1200,
-        "height": 1600
+        "link": "https://wiki.rpa-robin.ru/_images/J20.png",
+        "width": 1914,
+        "height": 1018
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Fkl7TrfHl0-52EKBNzmzFX8KGnV1Gq_2LfWG3wV5UvIN3EaLcmxFuX90U4J9h8EA_KM&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsVqdSi5kVQWShEg95t6UUr4mmma36VR9n0Tb-ATuqs7MiYjZ3aIuw6hAw5n1W1VA31KU&usqp=CAU"
     },
     {
       "position": 18,
-      "title": "Марина Кацуба — фото, биография, личная жизнь, новости, певица 2024 - 24СМИ",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "24СМИ",
-        "link": "https://24smi.org/celebrity/137855-marina-katsuba.html"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://24smi.org/public/media/celebrity/2020/10/28/hkju6yadd8v9-marina-katsuba.jpg",
-        "width": 600,
-        "height": 800
+        "link": "https://wiki.rpa-robin.ru/_images/J39.png",
+        "width": 395,
+        "height": 303
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSyP9Z3o6rjj_Ucl7gwJtaLlTNQ2l6n1aL8spHFmggS4noNCqgsUzx-DGSa4suNebs_8w&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpvFmV74IwW8uBHmoUx2RaBTBmVA_0SPHhhS2AWZZD7WowiHFuIGPH8eN7ODYSs4UbffQ&usqp=CAU"
     },
     {
       "position": 19,
-      "title": "Александр Кацуба: Реформа антимонопольного регулирования – обязательное  условие для изменений в украинской энергетике",
+      "title": "datetime - Какой формат даты в JSON? - Stack Overflow на русском",
       "source": {
-        "name": "fakty.com.ua",
-        "link": "https://fakty.com.ua/ru/ukraine/ekonomika/20230714-oleksandr-kaczuba-reforma-antymonopolnogo-regulyuvannya-obovyazkova-umova-dlya-zmin-v-ukrayinskij-energetyczi/"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/1202596/%D0%9A%D0%B0%D0%BA%D0%BE%D0%B9-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82-%D0%B4%D0%B0%D1%82%D1%8B-%D0%B2-json"
       },
       "original": {
-        "link": "https://cdn.fakty.com.ua/wp-content/uploads/2023/07/14/photo_5298548355774925171_w-2-632x356.jpg",
-        "width": 632,
-        "height": 356
+        "link": "https://i.stack.imgur.com/Fqcnb.png",
+        "width": 895,
+        "height": 393
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOL8W7QQrqQE6OH1qQA0-AQEZvKwoM6v8jm_IEX1GUc-o_ISo2Ly0AtYXyt3Mh9TpPe2k&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdYI09GNXpUJR-AHbrQwjZkZAaL1KCg10k2yXy50VfcqPzZ2GklqMg0mUQ3LH2JxB86I&usqp=CAU"
     },
     {
       "position": 20,
-      "title": "Кацуба Сергей Владимирович - Досье на LB.ua",
+      "title": "Работа с JSON данными в СУБД Mysql 5.7 - YouTube",
       "source": {
-        "name": "LB.ua",
-        "link": "https://rus.lb.ua/file/person/1515_katsuba_sergey_vladimirovich.html"
+        "name": "YouTube",
+        "link": "https://www.youtube.com/watch?v=riOQT4HS7yI"
       },
       "original": {
-        "link": "https://i.lb.ua/118/40/63d3a33d4a25b.jpeg",
-        "width": 200,
-        "height": 200
+        "link": "https://i.ytimg.com/vi/riOQT4HS7yI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLFbtoiRwaJciWXjRTGHCTTP1Aig1FbFmz4g_rdyW7aAFK9HZfF3wGKj1WIDaAeXRg9X0&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Fd_IksV-jRbXcTmdhCq5a_KR-qRK65p9iRL9xhyth464_q1gDdrWObhLaVfXZbWtG-g&usqp=CAU"
     },
     {
       "position": 21,
-      "title": "Марина Кацуба Poetry",
+      "title": "Best JSON Formatter and JSON Validator: Online JSON Formatter",
       "source": {
-        "name": "Facebook",
-        "link": "https://m.facebook.com/marinakacubapoetry/"
+        "name": "jsonformatter.org",
+        "link": "https://jsonformatter.org/"
       },
       "original": {
-        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100067195890543",
-        "width": 1365,
-        "height": 1365
+        "link": "https://jsonformatter.org/img/rectlogo.png",
+        "width": 256,
+        "height": 256
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfLa_Bo0ApE6OtbKGKDdPCRklUMJZrSRsmQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtqyiTTfYOmj4yzAMaMS0hqfMqtIoyN5Qug&usqp=CAU"
     },
     {
       "position": 22,
-      "title": "Александр Кацуба: Товарищи из \"Народного фронта\" национализировали бензин  \"Нафтогаза\", а не Курченко | Экономическая правда",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Економічна правда",
-        "link": "https://www.epravda.com.ua/rus/publications/2021/03/19/672081/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://eimg.pravda.com/images/doc/d/5/d599687-katsyba-shariy.png",
-        "width": 746,
-        "height": 725
+        "link": "https://wiki.rpa-robin.ru/_images/J59.png",
+        "width": 498,
+        "height": 256
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbaplz4XEJ1ia6lOOpKClVB7-Zb3cTOH2_Wg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xAdxOaHDbondm_AKCsRz6UD8wCMl1eIV5g&usqp=CAU"
     },
     {
       "position": 23,
-      "title": "Зампредом «Нафтогаза» стал 26-летний Александр Кацуба",
+      "title": "Конвертировать JSON в переменную",
       "source": {
-        "name": "Новости Севастополя",
-        "link": "https://sevastopol.su/news/zampredom-naftogaza-stal-26-letniy-aleksandr-kacuba"
+        "name": "Eonza",
+        "link": "https://www.eonza.org/ru/scripts/convert-json-to-variable.html"
       },
       "original": {
-        "link": "https://sevastopol.su/sites/default/files/styles/wide/public/news/43430_52263.jpg.webp",
-        "width": 276,
-        "height": 179
+        "link": "https://www.eonza.org/images/en/scripts/convert-json-to-variable.png",
+        "width": 874,
+        "height": 457
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPP6zIrIQmIa1whe0hqfhhP0CP-h33T-XqQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45rJ-2cSEFIksskpHOlPv9HAVTU6_LzV_Pw&usqp=CAU"
     },
     {
       "position": 24,
-      "title": "Марина Кацуба: цитаты, афоризмы и высказывания",
+      "title": "javascript - Возникла проблема с запуском json-server - Stack Overflow на  русском",
       "source": {
-        "name": "citaty.info",
-        "link": "https://citaty.info/man/marina-kacuba"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/1239465/%D0%92%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA%D0%BB%D0%B0-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0-%D1%81-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%BE%D0%BC-json-server"
       },
       "original": {
-        "link": "https://citaty.info/files/portraits/203841.jpg",
-        "width": 800,
-        "height": 700
+        "link": "https://i.stack.imgur.com/hxKAm.png",
+        "width": 787,
+        "height": 224
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp-UDWTcsrAJO-yOONavhLkSa67-BhgqQBdQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0cPpGRemZ6Md6XjlOWkkWcAqGvuPDKPqYbg&usqp=CAU"
     },
     {
       "position": 25,
-      "title": "Александр Кацуба: Поддерживать украинского производителя сейчас – здравый  смысл | Интернет-газета \"Топор\"",
+      "title": "Использование JSON для передачи данных в скрипты Office и из нее - Office  Scripts | Microsoft Learn",
       "source": {
-        "name": "Интернет-газета \"Топор\"",
-        "link": "https://topor.od.ua/ru/aleksandr-katsuba-podderzhivat-ukrainskogo-proizvoditelya-seychas-zdravyiy-smyisl/"
+        "name": "Learn Microsoft",
+        "link": "https://learn.microsoft.com/ru-ru/office/dev/scripts/develop/use-json"
       },
       "original": {
-        "link": "https://topor.od.ua/wp-content/uploads/2024/05/Katsuba-Aleksandr-7.jpg",
-        "width": 1200,
-        "height": 800
+        "link": "https://learn.microsoft.com/ru-ru/office/dev/scripts/images/create-json-console-output.png",
+        "width": 608,
+        "height": 258
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2oeRo8Nxf_VzsIrvlLfDSyKFgb9Uay7LJkQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQ7N9Zd0srp6j4kbAi0KJMTCfJ0NnRRXhAQ&usqp=CAU"
     },
     {
       "position": 26,
-      "title": "Александр Кацуба: Диджитализация меняет правила — Минфин",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "minfin.com.ua",
-        "link": "https://minfin.com.ua/2023/09/01/111786940/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "http://minfin.com.ua/img/2023/111786940/beb41ccb321f3f573f78678a500ce181.jpeg",
-        "width": 675,
-        "height": 450
+        "link": "https://wiki.rpa-robin.ru/_images/J41.png",
+        "width": 690,
+        "height": 204
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzKn_BjsG0rUhAZsR1S2bKy64XyV4JlHXLg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdFVUrpNgyusMtwreuha1iH5au9_Gh1PWCQ&usqp=CAU"
     },
     {
       "position": 27,
-      "title": "Марина Кацуба: о себе и своей карьере. Личная жизнь победительницы Versus  Battle на PEOPLETALK",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Peopletalk",
-        "link": "https://peopletalk.ru/article/pervaya-devushka-pobeditel-versus-battle-marina-katsuba-my-s-oksimironom-bolshe-ne-obshhaemsya/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://peopletalk.ru/wp-content/uploads/2018/02/glavnaya.jpg",
-        "width": 1440,
-        "height": 700
+        "link": "https://wiki.rpa-robin.ru/_images/J4.png",
+        "width": 663,
+        "height": 184
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHpPkjWHXlk5GCraqDM3vlCVhNWKU4SwEJw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6F5o1kNiXNQ7XKKUBN-xZAewMyUErUK1Mw&usqp=CAU"
     },
     {
       "position": 28,
-      "title": "Марина Кацуба. Презентация альбома «Сегодня» — Музей современного искусства  Эрарта",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Эрарта",
-        "link": "https://www.erarta.com/ru/calendar/events/detail/14477222-7e3d-11e6-92a6-8920284aa333/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://www.erarta.com/upload/iblock/ff8/ff883861d25c6b81080afe1f95f58070.jpg",
-        "width": 640,
-        "height": 426
+        "link": "https://wiki.rpa-robin.ru/_images/J40.png",
+        "width": 1914,
+        "height": 1020
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVSSgFLM95jPHWXNYB0PFopAnVTD1_9AdYGQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22GcJTBWgFwjxkSRht34xvhgjvbiDChVbZw&usqp=CAU"
     },
     {
       "position": 29,
-      "title": "Звезда Versus Battle Марина Кацуба случайно забеременела от перуанского  шамана | STARHIT",
+      "title": "Просмотр форматированного JSON - Microsoft Edge Developer documentation |  Microsoft Learn",
       "source": {
-        "name": "StarHit",
-        "link": "https://www.starhit.ru/novosti/zvezda-versus-battle-marina-katsuba-sluchayno-zaberemenela-ot-peruanskogo-shamana-223715/"
+        "name": "Microsoft Learn",
+        "link": "https://learn.microsoft.com/ru-ru/microsoft-edge/devtools-guide-chromium/json-viewer/json-viewer"
       },
       "original": {
-        "link": "https://n1s1.hsmedia.ru/9a/59/e7/9a59e7cfc91e63745671c9422900a103/600x377_0xac120003_9677860281603002164.jpg",
-        "width": 600,
-        "height": 377
+        "link": "https://learn.microsoft.com/ru-ru/microsoft-edge/devtools-guide-chromium/json-viewer/json-viewer-images/json-response.png",
+        "width": 1356,
+        "height": 894
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWWVuTa94CxpOYAXyRyAJQUq15q0H_C6KjQg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZX2DxwAkW6kl2hrXd6jqX7Carp__44bN9yg&usqp=CAU"
     },
     {
       "position": 30,
-      "title": "Как Александр Кацуба попал в НАК Нафтогаз | Комментарии Украина",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Общество",
-        "link": "https://society.comments.ua/article/scandal/gosudarstvo-kak-biznes-aleksandr-kacuba-i-ego-klan-709777.html"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://comments.ua/img/publications/KtR2iQEMhZA0cGX_F8DnCjQnuqUO7JqX.jpg",
-        "width": 1080,
-        "height": 608
+        "link": "https://wiki.rpa-robin.ru/_images/J25.png",
+        "width": 1917,
+        "height": 1025
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UDJTOzpDCbK14u4j3nOpIDd38ymuSp2BRw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xiS1g-XpfW4D9jUqsDEcXnwf3hvbvIIZiw&usqp=CAU"
     },
     {
       "position": 31,
-      "title": "Listen to Марина Кацуба (live) - Ним by marinakacuba in M O T E L @Moscow  playlist online for free on SoundCloud",
+      "title": "JSONata",
       "source": {
-        "name": "SoundCloud",
-        "link": "https://soundcloud.com/user-112570924/marina-katsuba-live-nim?in=user-112570924/sets/m-o-t-e-l-moscow"
+        "name": "jsonata.org",
+        "link": "https://jsonata.org/"
       },
       "original": {
-        "link": "https://i1.sndcdn.com/avatars-000266060052-odcedy-t240x240.jpg",
-        "width": 240,
-        "height": 240
+        "link": "https://i.ytimg.com/vi/ZBaK40rtIBM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR67XVA_dnt9SJW2GiHaw_u-NtAoOKSk8JWQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzwKyk38325ova3UZWShZW5CEJ-X4ckD2HhA&usqp=CAU"
     },
     {
       "position": 32,
-      "title": "АМБАССАДОРЫ Марина Кацуба",
+      "title": "java - как из String в библиотеке gson сделать json и перевести в массив? -  Stack Overflow на русском",
       "source": {
-        "name": "Arny Praht",
-        "link": "https://arnypraht.com/ambassadory-marina-katsuba/"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/663374/%D0%BA%D0%B0%D0%BA-%D0%B8%D0%B7-string-%D0%B2-%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B5-gson-%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-json-%D0%B8-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D0%B8-%D0%B2-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2"
       },
       "original": {
-        "link": "https://arnypraht.com/assets/images/resources/1065/e3eef5bf4d1ffe50b299533c506069c665c4cd1c.jpg",
-        "width": 683,
-        "height": 1024
+        "link": "https://i.stack.imgur.com/Xc3lm.png",
+        "width": 352,
+        "height": 499
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mDclX9Dvva6skoP4W6dJb0KYMn_T_awmCg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HIbWmY19BcNXGtqL4AghQOech5S98rXwsw&usqp=CAU"
     },
     {
       "position": 33,
-      "title": "Выступление Марины Кацуба в ресторане Библиотека вкусов",
+      "title": "JSON: что это за формат и как с ним работать / Skillbox Media",
       "source": {
-        "name": "Restoclub.ru",
-        "link": "https://www.restoclub.ru/spb/place/biblioteka-vkusov/news/vystuplenie-mariny-kacuba"
+        "name": "Skillbox",
+        "link": "https://skillbox.ru/media/code/json-chto-eto-za-format-i-kak-s-nim-rabotat/"
       },
       "original": {
-        "link": "https://img.restoclub.ru/uploads/newsinner/f/5/4/c/f54c8a7067c1da61611a13383e17c956_w1200_h630--c.jpeg",
-        "width": 1000,
-        "height": 1406
+        "link": "https://skillbox.ru/upload/setka_images/14034307092023_278cadb5c5a600fd354bbb4a32acf34407bf98f0.png",
+        "width": 1540,
+        "height": 1155
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2uOXETL_cUjx3oZWVFvyrurOObmDYyBccQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtNTTKzRV42LkhaWq4mc_iYMaxXlNdkl0-A&usqp=CAU"
     },
     {
       "position": 34,
-      "title": "Экс-нардеп Сергей Кацуба снят с розыска в Украине",
+      "title": "c# - JSON неверно сохраняет значения переменных типа float - Stack Overflow  на русском",
       "source": {
-        "name": "Гордон",
-        "link": "https://gordonua.com/news/politics/eks-nardep-sergey-kacuba-snyat-s-rozyska-v-ukraine-343189.html"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/765189/json-%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE-%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D1%8F%D0%B5%D1%82-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B8%D0%BF%D0%B0-float"
       },
       "original": {
-        "link": "https://gordonua.com/img/article/3431/89_main-v1536594590.jpg",
-        "width": 745,
-        "height": 560
+        "link": "https://i.stack.imgur.com/MiJZa.png",
+        "width": 603,
+        "height": 438
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJD7bqG5S0coxYXYGeUolYY2YwJK1VmIXtPA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS942RlhOmLbBNRGbXewAUZ9DaA7hHsHXAkhw&usqp=CAU"
     },
     {
       "position": 35,
-      "title": "Петербургская поэтесса Марина Кацуба выступит в центре культуры «Красный  угол»",
+      "title": "JsonDiscovery: Меняем опыт просмотра JSON в браузере / Хабр",
       "source": {
-        "name": "Культура в Вологодской области",
-        "link": "https://cultinfo.ru/news/2017/8/the-st-petersburg-poetess-marina-katsuba-will-perf"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/461185/"
       },
       "original": {
-        "link": "https://cultinfo.ru/upload/resize_cache/iblock/cf3/lfk0fpc622ugj380p0hmzhm95u8s6ona/2000_2000_140cd750bba9870f18aada2478b24840a/DwovEidKzGU.jpg",
-        "width": 2000,
-        "height": 1335
+        "link": "https://miro.medium.com/max/1400/1*Y7cjqD_02Ibf0dypmCSzTg.png",
+        "width": 1400,
+        "height": 932
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS429eOF0YvN1mO_BbcPNEqHlzE4CUQrD64mw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CyghAvF1V1DTlcZ6v--M5GmU5_P8d-4Hrw&usqp=CAU"
     },
     {
       "position": 36,
-      "title": "Фестиваль поэзии МАЯК - #mayakfestival_участники Марина Кацуба—  петербургский поэт, автор трех сборников стихов, единственная девушка —  победитель телепередачи 100ТВ «Битвы Поэтов» (передача с ее участием  получила премию «Тэфи» в 2010), единственная ...",
+      "title": "JSON",
       "source": {
-        "name": "Facebook",
-        "link": "https://pt-br.facebook.com/mayakfestival/photos/mayakfestival_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%BE%D1%8D%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D1%80-%D1%82%D1%80%D0%B5%D1%85-%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D1%81%D1%82%D0%B8/138063190183199/"
+        "name": "1С:Предприятие - Фирма «1С»",
+        "link": "https://v8.1c.ru/platforma/json/"
       },
       "original": {
-        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=138063190183199",
-        "width": 1280,
-        "height": 853
+        "link": "https://v8.1c.ru/upload/platforma/sreda-bystroy-razrabotki/000000826_3.png",
+        "width": 637,
+        "height": 218
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JonubIJDdfKU1ec2auZc_6MwYxFDnQOovw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHOFtzME-f_pXjzCAfoPxhFbJZf5Twb5O0zw&usqp=CAU"
     },
     {
       "position": 37,
-      "title": "File:НДУ 7 Кацуба Сергій Володимирович.jpg - Wikipedia",
+      "title": "Работаем с JSON в SQL Server 2016 / Хабр",
       "source": {
-        "name": "Wikipedia",
-        "link": "https://en.wikipedia.org/wiki/File:%D0%9D%D0%94%D0%A3_7_%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/317166/"
       },
       "original": {
-        "link": "https://upload.wikimedia.org/wikipedia/commons/0/07/%D0%9D%D0%94%D0%A3_7_%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87.jpg",
-        "width": 150,
-        "height": 200
+        "link": "https://habrastorage.org/files/32c/290/6cd/32c2906cd22f4ae5b262198ddd392885.png",
+        "width": 1895,
+        "height": 803
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54vz6UOQPeGXb0ARN1JR3LSbbe0Aj_wYL0Q&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm7xcR6QrSchfwI0yeOqFli5M6ckN8njoQuw&usqp=CAU"
     },
     {
       "position": 38,
-      "title": "Досьє: Александр Владимирович Кацуба - Украинский предприниматель, эксперт  в сфере энергетики, владелец компании АЛЬФА ГАЗ. | StopCor",
+      "title": "Хранение данных, JSON— Ruby Rush",
       "source": {
-        "name": "Стопкор",
-        "link": "https://www.stopcor.org/dossier-person/person-oleksandr-volodimirovich-katsuba.html"
+        "name": "Ruby Rush",
+        "link": "https://rubyrush.ru/steps/json"
       },
       "original": {
-        "link": "https://i.stopcor.org/person/2023/12/28/whatsapp-image-2023-12-28-at-17-56-43.jpeg?size=1000x1000",
-        "width": 1000,
-        "height": 1000
+        "link": "http://goodprogrammer.ru/system/rich_texts/000/000/3540ef8f01ff0e8e47ede4a4247dbd03e0fafa2e70d/01-json-for-text.jpg?1441266892",
+        "width": 960,
+        "height": 455
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5D0ZNoYm_4cEj0XzGFtniY4cVdmcVVoX5rA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XLv22mLw0pYAteLnPdU2h1RjImLwiBRD9g&usqp=CAU"
     },
     {
       "position": 39,
-      "title": "Кацуба Станислав – Состав – Амур | Хоккейный клуб \"Амур\"",
+      "title": "java - JSON parse error: Cannot construct instance - Stack Overflow на  русском",
       "source": {
-        "name": "Хоккейный клуб \"Амур\"",
-        "link": "https://www.hcamur.ru/players/khl/stanislav-katsuba-15918/"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/1270389/json-parse-error-cannot-construct-instance"
       },
       "original": {
-        "link": "https://www.hcamur.ru/media/players/Katsuba_L8nyi7Z.jpg",
-        "width": 450,
-        "height": 500
+        "link": "https://i.stack.imgur.com/VR9G2.png",
+        "width": 969,
+        "height": 357
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0vELNOCc9AThHCXaa8zLBP7pnLtWhjMeHQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3XejtzX8TVY_vyZdJXMeNrvqYpWhBG6Paw&usqp=CAU"
     },
     {
       "position": 40,
-      "title": "В Екатеринбурге выступит \"королева поэтов\" Марина Кацуба | 22.11.2016 |  Екатеринбург - БезФормата",
+      "title": "Что такое JSON / Хабр",
       "source": {
-        "name": "Новости Екатеринбурга и Свердловской области - БезФормата",
-        "link": "https://ekaterinburg.bezformata.com/listnews/koroleva-poetov-marina-katcuba/52519196/"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/554274/"
       },
       "original": {
-        "link": "http://s11.stc.all.kpcdn.net/share/i/12/9902000/",
-        "width": 1280,
-        "height": 853
+        "link": "https://habrastorage.org/getpro/habr/upload_files/2db/ef1/434/2dbef14341056172d3815e69b7f0772b.png",
+        "width": 590,
+        "height": 604
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpOwvWfZ7B7KKFkhaqhc9x9cxJqHfquWJBkw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xFGBehW9BvEM9CYeJbnD2FZBnm1AfcZHeg&usqp=CAU"
     },
     {
       "position": 41,
-      "title": "Александр Кацуба: Как Украине выдержать следующую зиму? - Новости bigmir)net",
+      "title": "Зачем Telegram Bot Raw присылает json в чат группы? — Хабр Q&A",
       "source": {
-        "name": "bigmir.net",
-        "link": "https://news.bigmir.net/ukraine/7521165-aleksandr-katsuba-kak-ukraine-vyderzhat-sleduyuschuyu-zimu"
+        "name": "Хабр Q&A - Habr",
+        "link": "https://qna.habr.com/q/1269448"
       },
       "original": {
-        "link": "https://news.bigmir.net/i/75/21/16/5/7521165/image_main/5f9e6651bc8a1e5408236f7956eed45b-quality_75Xresize_crop_1Xallow_enlarge_0Xw_740Xh_400.jpg",
-        "width": 740,
-        "height": 400
+        "link": "https://habrastorage.org/webt/64/2e/7d/642e7d18cf941787086631.jpeg",
+        "width": 1374,
+        "height": 791
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1k0mBuzCbMEGP86srzYqv6HV7lqCnc8Sxfw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYE7WNyMVYErEf6YPl0U3RPTTGAjbmQUYFA&usqp=CAU"
     },
     {
       "position": 42,
-      "title": "Скандальний Кацуба, який відкупився від тюрми, таємно добивається повного  виправдання - Главком",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Главком",
-        "link": "https://glavcom.ua/publications/skandalnij-katsuba-jakij-vidkupivsja-vid-tjurmi-teper-tajemno-dobivajetsja-povnoho-vipravdannja-963828.html"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://glavcom.ua/img/article/9638/28_main-v1697974181.jpg",
-        "width": 700,
-        "height": 466
+        "link": "https://wiki.rpa-robin.ru/_images/J111.png",
+        "width": 404,
+        "height": 224
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnf5PgeT4TdDwqB9rcGs4j6n1GAxJ-E2wWZw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ma8zDxvIAm4agqDrqVDMUqiRzSS4ycLi9A&usqp=CAU"
     },
     {
       "position": 43,
-      "title": "Кацуба-младший вышел из СИЗО | Украинская правда",
+      "title": "массивы - Как получить значение массива json в PHP по ключу - Stack  Overflow на русском",
       "source": {
-        "name": "Українська правда",
-        "link": "https://www.pravda.com.ua/rus/news/2017/03/15/7138231/"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/1262778/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D0%B0-json-%D0%B2-php-%D0%BF%D0%BE-%D0%BA%D0%BB%D1%8E%D1%87%D1%83"
       },
       "original": {
-        "link": "https://img.pravda.com/images/doc/2/a/2a44dbe-485-katsuba.jpg",
-        "width": 485,
-        "height": 299
+        "link": "https://i.stack.imgur.com/mQyXk.png",
+        "width": 462,
+        "height": 364
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9estaAwbABpC6m6H8FUIt96TWSicppWh0wg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1n2Nfv86fdYIJQ_W4ZFWF3K7yjwlF1m_ucg&usqp=CAU"
     },
     {
       "position": 44,
-      "title": "Молодой муж звезды Versus Battle усыновил ее ребенка",
+      "title": "Ошибка в десериализации JSON",
       "source": {
-        "name": "Пятый канал",
-        "link": "https://www.5-tv.ru/news/349530/molodoj-muz-zvezdy-versus-battle-usynovil-eerebenka-otperuanskogo-samana/"
+        "name": "JavaRush",
+        "link": "https://javarush.com/forum/46"
       },
       "original": {
-        "link": "https://img5tv.cdnvideo.ru/shared/files/202107/1_1349358.jpg",
-        "width": 777,
-        "height": 591
+        "link": "https://cdn.javarush.com/images/article/6537cdd9-aca1-434b-aadd-789e91999ad0/1024.jpeg",
+        "width": 1024,
+        "height": 576
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbqpfzs8GUqVzHQDjQjzbogj4gRK82Rvb1DQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMqBkXDcs94k3HA7I4ipCEJ6vWiHDFSRERyw&usqp=CAU"
     },
     {
       "position": 45,
-      "title": "Книга Июнь • Марина Кацуба – купить книгу по низкой цене, читать отзывы в  Book24.ru • АСТ • ISBN 978-5-17-119232-7, p5503722",
+      "title": "Что такое JSON / Хабр",
       "source": {
-        "name": "Book24",
-        "link": "https://book24.ru/product/iyun-5503722/"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/554274/"
       },
       "original": {
-        "link": "https://ndc.book24.ru/resize/820x1180/iblock/2ae/2ae8914765c92587ef0da9a6778c3ff7/8b892e48fe8a61f1ff5fee7570072764.jpg",
-        "width": 464,
-        "height": 699
+        "link": "https://habrastorage.org/getpro/habr/upload_files/acd/1a0/b3e/acd1a0b3e42086178942fcc0c0fd8d1b.png",
+        "width": 500,
+        "height": 456
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Ch4AjY3VedYlr_9ZoeV-0QzDnEI65H6DsQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQep0Yiwmh0qQVHVC-hCaD8A2EsWLjnLhebeg&usqp=CAU"
     },
     {
       "position": 46,
-      "title": "Super.ru - Звезда Versus Battle Марина Кацуба опубликовала... | Facebook",
+      "title": "Что такое формат json и для чего он используется",
       "source": {
-        "name": "Facebook",
-        "link": "https://www.facebook.com/super.ru.news/posts/%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0-versus-battle-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0-%D0%BE%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B0-%D0%B2-%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B5-%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF/4526080237466923/"
+        "name": "SEMANTICA Москва",
+        "link": "https://semantica.in/blog/format-json-chto-eto-takoe-kak-sozdat-i-otkryt-fajl.html"
       },
       "original": {
-        "link": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4526080004133613",
-        "width": 1080,
-        "height": 1080
+        "link": "https://semantica.in/wp-content/uploads/2018/02/Menyu-Fayl-i-Otkryit-v-Microsoft-Notepad.png",
+        "width": 710,
+        "height": 600
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxXwDpApM2pITEH5JRIzc4L7X3v4dYupm3A&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQPLwv3NzmzcDMpOsiRILV5Or3EtC88OvojA&usqp=CAU"
     },
     {
       "position": 47,
-      "title": "Марина Кацуба: «В России появятся женщины-рэперы, которых не было» - KP.RU",
+      "title": "Глава 17. Работа с JSON :: 1С:Предприятие 8.3.6. Документация",
       "source": {
-        "name": "Комсомольская Правда в Санкт-Петербурге",
-        "link": "https://www.spb.kp.ru/daily/26759.5/3789781/"
+        "name": "its.1c.ru",
+        "link": "https://its.1c.ru/db/content/v836doc/src/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0/%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0%2017.%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20json.htm"
       },
       "original": {
-        "link": "https://s16.stc.yc.kpcdn.net/share/i/12/10266224/wr-960.webp",
-        "width": 960,
-        "height": 640
+        "link": "https://its.1c.ru/db/content/v836doc/src/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0/_img/img00341.gif?_=00008037D88BE19C-v2",
+        "width": 510,
+        "height": 614
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhWJas8OpVVp6tl113tSnkPEMe9Ts7fi2EQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcwsxGHNCUOID31oIc_8W76UmH1v4e-ea7qQ&usqp=CAU"
     },
     {
       "position": 48,
-      "title": "Кацуба Юрий Николаевич | personalii.spmi.ru",
+      "title": "Что такое JSON / Хабр",
       "source": {
-        "name": "personalii.spmi.ru | - | Санкт-Петербургский горный университет",
-        "link": "http://personalii.spmi.ru/ru/glossary/k/kacuba_yuriy_nikolaevich"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/554274/"
       },
       "original": {
-        "link": "http://personalii.spmi.ru/sites/default/files/styles/photo_glossary/public/personalii_photo/foto_22.jpg?itok=rY3E_Jww",
-        "width": 300,
-        "height": 400
+        "link": "https://habrastorage.org/getpro/habr/upload_files/876/d5f/5df/876d5f5df458e26a565517291b9c08f5.png",
+        "width": 500,
+        "height": 354
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQ-NojD9sspIrrzYKxnY0ROssIB2GIN91Zw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEhEwtPhUBls3xLvu4HOgyph7EU3nNkVgZKA&usqp=CAU"
     },
     {
       "position": 49,
-      "title": "Марина Кацуба / Психология / Медицина Перу (@marina_kacuba) • Instagram  photos and videos",
+      "title": "Отправка JSON с сервера на клиент? — Хабр Q&A",
       "source": {
-        "name": "Instagram",
-        "link": "https://www.instagram.com/marina_kacuba/"
+        "name": "Хабр Q&A - Habr",
+        "link": "https://qna.habr.com/q/659224"
       },
       "original": {
-        "link": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3351864046124538064",
-        "width": 1440,
-        "height": 1440
+        "link": "https://habrastorage.org/webt/5d/5b/b5/5d5bb5bfa248b335136874.jpeg",
+        "width": 500,
+        "height": 362
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbcDO8v2-rZZibox3TEPO_l1j0chw-E9TFSg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sue_tYP3nvHlpNJzEjKeS7gaBgR4FeJMhw&usqp=CAU"
     },
     {
       "position": 50,
-      "title": "Скандальные \"вышки Бойко\": фигурант Александр Кацуба хочет через суд  взыскать 100 млн грн | Новости политики | OBOZ.UA",
+      "title": "Просмотр форматированного JSON - Microsoft Edge Developer documentation |  Microsoft Learn",
       "source": {
-        "name": "Obozrevatel",
-        "link": "https://www.obozrevatel.com/politics-news/skandalnyie-vyishki-bojko-figurant-aleksandr-katsuba-hochet-cherez-sud-vzyiskat-100-mln-grn.htm"
+        "name": "Microsoft Learn",
+        "link": "https://learn.microsoft.com/ru-ru/microsoft-edge/devtools-guide-chromium/json-viewer/json-viewer"
       },
       "original": {
-        "link": "https://i.obozrevatel.com/news/2023/8/25/iscreen-shoter-google-chrome-app-230825132135.jpg?size=1944x924",
-        "width": 1944,
-        "height": 924
+        "link": "https://learn.microsoft.com/ru-ru/microsoft-edge/devtools-guide-chromium/json-viewer/json-viewer-images/json-file.png",
+        "width": 1356,
+        "height": 894
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRicxqcaWX29LQFd6hITTaipai96mlYId90xA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSm1E7tG7iBnC-WqXBH16g6-WTc47dAlPZQA&usqp=CAU"
     },
     {
       "position": 51,
-      "title": "Кацуба продает особняк в Киевской области за $16 млн | Бізнес.Цензор",
+      "title": "JSON: push the limits",
       "source": {
-        "name": "БізнесЦензор - Цензор.НЕТ",
-        "link": "https://biz.censor.net/news/3240809/katsuba_prodaet_osobnyak_v_kievskoyi_oblasti_za_16_mln"
+        "name": "Яндекс Образование",
+        "link": "https://academy.yandex.ru/knowledge/json:-push-the-limits"
       },
       "original": {
-        "link": "https://images.cnscdn.com/b/c/e/c/bcec463a3a4142c14d5ff332053f2c71/original.jpg",
-        "width": 931,
-        "height": 699
+        "link": "https://i.ytimg.com/vi/KpfA19oDfeA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxOjUlIECFySmt5_FthXHay59y90rLAwkwA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl9QwKqElbZeFbQTPOX-r7MXxxUME-OMWykA&usqp=CAU"
     },
     {
       "position": 52,
-      "title": "Один из предполагаемых экс-спонсоров Шария встретился с президентом  Зеленским (фото)",
+      "title": "Как получить данные с вложенного JSON объекта MongoDB с nodeJS? — Хабр Q&A",
       "source": {
-        "name": "Фокус",
-        "link": "https://focus.ua/ukraine/475260-odin-iz-yakoby-eks-sponsorov-shariya-vstretilsya-s-zelenskim-foto"
+        "name": "Хабр Q&A - Habr",
+        "link": "https://qna.habr.com/q/952863"
       },
       "original": {
-        "link": "https://focus.ua/static/storage/originals/2/7a/a71f4dfba95686235b86ed9ed8a147a2.jpg",
-        "width": 646,
-        "height": 960
+        "link": "https://habrastorage.org/webt/60/49/eb/6049eb543c102329249406.png",
+        "width": 387,
+        "height": 329
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTp4LbdQqDAsx4QEepIsK4U6X7O3sazbXJPQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8V1CaEXmg4kuOhrII1TgdkSi1XA3KKvsGpQ&usqp=CAU"
     },
     {
       "position": 53,
-      "title": "Мужчина - song and lyrics by Марина Кацуба | Spotify",
+      "title": "Работа с JSON - Изучение веб-разработки | MDN",
       "source": {
-        "name": "Spotify",
-        "link": "https://open.spotify.com/track/15VyYsYxquz3Bv2FGQTr2I"
+        "name": "MDN Web Docs - Mozilla",
+        "link": "https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON"
       },
       "original": {
-        "link": "https://i.scdn.co/image/ab67616d0000b273929abd366d385bc511215486",
-        "width": 640,
-        "height": 640
+        "link": "https://developer.mozilla.org/ru/docs/Learn/JavaScript/Objects/JSON/json-superheroes.png",
+        "width": 839,
+        "height": 535
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCKJqc96kTdJ1JggDTcWixKJsFgXBspDACOg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjGPPYVA3TgN71sRC1kh5aPIclFbXXoxI2A&usqp=CAU"
     },
     {
       "position": 54,
-      "title": "Кацуба Марина Евгеньевна врач в Брянской области | Столичная диагностика",
+      "title": "JSON Formatter & Validator",
       "source": {
-        "name": "Сеть медицинских центров Столичная диагностика",
-        "link": "https://med-32.ru/staff/unecha/katsuba-m-e/"
+        "name": "Curious Concept",
+        "link": "https://jsonformatter.curiousconcept.com/"
       },
       "original": {
-        "link": "https://med-32.ru/upload/iblock/604/60491c558b51c1c5451f5584ab05f7dc.jpg",
-        "width": 533,
-        "height": 800
+        "link": "https://jsonformatter.curiousconcept.com/icons/jf/mstile-144x144.b0ef4bd01d6cb25ab71ae707ed7ac226.png",
+        "width": 144,
+        "height": 144
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDghqxggRxlR1SGrog9KEG_Bv_ebC21ACaFw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxRd41jNfaORKCGTFe2AGt6cFE-lSVZzjhWg&usqp=CAU"
     },
     {
       "position": 55,
-      "title": "Александр Кацуба: Как Украине выдержать следующую зиму? | Українські Новини",
+      "title": "JSON: что это за формат, где используется и как его открыть",
       "source": {
-        "name": "Українські Новини",
-        "link": "https://ukranews.com/news/1002249-aleksandr-katsuba-kak-ukraine-vyderzhat-sleduyushhuyu-zimu"
+        "name": "Timeweb",
+        "link": "https://timeweb.com/ru/community/articles/format-json"
       },
       "original": {
-        "link": "https://ukranews.com/upload/media/2024/04/29/662fcee1040f6-katsuba_aleksandr_4.jpg",
-        "width": 2000,
-        "height": 1333
+        "link": "https://timeweb.com/media/c6c885aa3ada045a9de50388b68219b2.png",
+        "width": 832,
+        "height": 815
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlbgRT_8Xij5tDgxc17B7HknbpRYqlZZyLsA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzqFQNulzs9zX-5ZK1kpejOdeDerVPlrJYQw&usqp=CAU"
     },
     {
       "position": 56,
-      "title": "Владимир Михайлович Кацуба: биография, досье, компромат, фото и видео -  ЗНАЙ ЮА",
+      "title": "SQL Server JSON / Хабр",
       "source": {
-        "name": "Znaj.ua",
-        "link": "https://znaj.ua/ru/dossier/197-volodimir-kacuba-dosye-i-kompromat"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/343062/"
       },
       "original": {
-        "link": "https://znaj.ua/crops/aaa804/620x0/1/0/2019/08/01/LMgHb6wFk8XJsCBpaGj3tZQN8jF8vNj9rpGr7ngZ.jpeg",
-        "width": 225,
-        "height": 225
+        "link": "https://habrastorage.org/webt/lx/tz/wh/lxtzwh-3ltippjhrixmp5xafxzm.png",
+        "width": 693,
+        "height": 347
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8UTVSzW99ON89QyuaZjKJs2VG7furSU3hzw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBl0nZ715fCx9pgxQP1lx2RUXCtN4VbNH9bw&usqp=CAU"
     },
     {
       "position": 57,
-      "title": "Кацуба Володимир Михайлович — Біографія, Балотування, Фракції, Політична  Агітація | ПолітХаб",
+      "title": "Использование JSON в MySQL - PHPtoday.ru",
       "source": {
-        "name": "Рух ЧЕСНО",
-        "link": "https://www.chesno.org/politician/166/"
+        "name": "PHPtoday.ru",
+        "link": "https://phptoday.ru/post/ispolzovanie-json-v-mysql"
       },
       "original": {
-        "link": "https://cdn.chesno.org/web/media/thumbs/persons/%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80.jpg.200x200_q85_crop.jpg",
-        "width": 200,
-        "height": 200
+        "link": "https://phptoday.ru/img-cache/storage/articles/mysql-json.png",
+        "width": 581,
+        "height": 580
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-CM1kf4ij0un-uXLIGFmWAsTga--Dsa3IFw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL_whyl_GjQQkdOpg9qxir3Kn4EYz_tV42ow&usqp=CAU"
     },
     {
       "position": 58,
-      "title": "Александр Кацуба: \"вышки Бойко\", суд на 100 миллионов, бизнес и  волонтерство во время войны | УНН",
+      "title": "JSON: что это за формат, где используется и как его открыть",
       "source": {
-        "name": "unn.ua",
-        "link": "https://unn.ua/ru/news/oleksandr-katsuba-vishki-boyka-sud-na-100-milyoniv-biznes-ta-volonterstvo-pid-chas-viyni"
+        "name": "Timeweb",
+        "link": "https://timeweb.com/ru/community/articles/format-json"
       },
       "original": {
-        "link": "https://img.unn.ua/img/2023/11/15/1700485616-2375-large.webp",
-        "width": 587,
-        "height": 440
+        "link": "https://timeweb.com/media/b0c108ff3ba5bc38dd47b93cc8abb76e.png",
+        "width": 767,
+        "height": 499
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiuz7rSaQQg34O8mPQrPpEZmWkGGBo-LWtg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0a2KLGw0vLw0WCFrfIKnyKg-mIQ-xo-8kBQ&usqp=CAU"
     },
     {
       "position": 59,
-      "title": "Марина Кацуба / Психология / Медицина Перу (@marina_kacuba) • Instagram  photos and videos",
+      "title": "java - Как передать массив байт по Json - Stack Overflow на русском",
       "source": {
-        "name": "Instagram",
-        "link": "https://www.instagram.com/marina_kacuba/"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/721277/%D0%9A%D0%B0%D0%BA-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%8C-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2-%D0%B1%D0%B0%D0%B9%D1%82-%D0%BF%D0%BE-json"
       },
       "original": {
-        "link": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2972735300550034137",
-        "width": 1440,
-        "height": 1800
+        "link": "https://i.stack.imgur.com/Hqiwz.jpg",
+        "width": 291,
+        "height": 225
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Vg338CkowCFADpKM_9WdgWnvyRMjQylk9Q&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1sJ5wocSbVpEUoOTkSU8Ru79j2qGEdnsz3w&usqp=CAU"
     },
     {
       "position": 60,
-      "title": "Купить билеты на Марина Кацуба. Последний случайный концерт года.  19.12.2018 Social Club Концерт в Санкт-Петербурге - Афиша Радарио",
+      "title": "php - Почему глобальный массив $_POST приходит пустой? - Stack Overflow на  русском",
       "source": {
-        "name": "Афиша Радарио",
-        "link": "https://spb.radario.ru/events/334999"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/418496/%D0%9F%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2-post-%D0%BF%D1%80%D0%B8%D1%85%D0%BE%D0%B4%D0%B8%D1%82-%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B9"
       },
       "original": {
-        "link": "https://images.radario.ru/images/afficheevent/8b481bf6e9bb4e8797ab24285cc01177.jpg",
-        "width": 880,
-        "height": 600
+        "link": "https://i.stack.imgur.com/sWedN.jpg",
+        "width": 1366,
+        "height": 768
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDkCXW1GK___YCyPWfjkL6WV-SV1ZG0aX0w&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzyFOVBHlf2kK0Z-v1eHbWWG_Z-FcHEHBpOg&usqp=CAU"
     },
     {
       "position": 61,
-      "title": "Кацуба занял место Александрова в мэрии Новотроицка - Новотроицк: Ntsk.ru",
+      "title": "JSON Schema. Быть или не быть? / Хабр",
       "source": {
-        "name": "Новотроицк",
-        "link": "https://ntsk.ru/news/44353"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/495766/"
       },
       "original": {
-        "link": "http://images.ntsk.ru/images/ntsk/2022/02_february/image_15022022155124_16449222842617.jpg",
-        "width": 600,
-        "height": 635
+        "link": "https://habrastorage.org/webt/cv/vm/hs/cvvmhsq_zvedimld_f5ibaw-ubk.png",
+        "width": 854,
+        "height": 583
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe_c-NU5-Oj_v2uKlTRSz9kJhQmjVWtLB9jg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHpci8ieDFyFAyIDFlVXO092cHlsdVNB2uDQ&usqp=CAU"
     },
     {
       "position": 62,
-      "title": "Versus: Межсезонье»: Марина Кацуба vs. Drago | RAP.RU",
+      "title": "Что такое формат json и для чего он используется",
       "source": {
-        "name": "RAP.RU",
-        "link": "https://www.rap.ru/news/5617"
+        "name": "SEMANTICA Москва",
+        "link": "https://semantica.in/blog/format-json-chto-eto-takoe-kak-sozdat-i-otkryt-fajl.html"
       },
       "original": {
-        "link": "https://www.rap.ru/img/news/b/5617.jpg?1412519723",
-        "width": 642,
-        "height": 315
+        "link": "https://semantica.in/wp-content/uploads/2018/02/3-jsoneditoronline.jpg",
+        "width": 1515,
+        "height": 855
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu1PhSCFeVrnW6gdmeiPG9mnIBm-QKwUKFVg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLZ3by4RuE4IvK9TzdTplocs0s-mPwy5uHw&usqp=CAU"
     },
     {
       "position": 63,
-      "title": "Кацуба Станислав",
+      "title": "php - Пустой массив $_GET - Stack Overflow на русском",
       "source": {
-        "name": "Хоккейный клуб Амур",
-        "link": "http://old.hcamur.ru/team/katsuba-stanislav.html"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/705828/%D0%9F%D1%83%D1%81%D1%82%D0%BE%D0%B9-%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2-get"
       },
       "original": {
-        "link": "http://old.hcamur.ru/upload/iblock/5c2/5c2487a29a9920a9b2b21ba983b8e077.jpg",
-        "width": 500,
-        "height": 666
+        "link": "https://i.stack.imgur.com/ZH4S4.png",
+        "width": 792,
+        "height": 279
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTsL8yR9n-1cFaOWg9WCiAqs8Oee-3uIMkpA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDiwwh-vlRtDqGaRHoqNR617MKONHJ-vmiog&usqp=CAU"
     },
     {
       "position": 64,
-      "title": "Александр Кацуба - Co-Founder - MyCredit | LinkedIn",
+      "title": "JSON: что это за формат, где используется и как его открыть",
       "source": {
-        "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0-782a07109"
+        "name": "Timeweb",
+        "link": "https://timeweb.com/ru/community/articles/format-json"
       },
       "original": {
-        "link": "https://media.licdn.com/dms/image/D4D03AQGAfqWutPyBrA/profile-displayphoto-shrink_800_800/0/1677602486471?e=2147483647&v=beta&t=hEIciA2u5RnFjebXN3ZWBZ7qc7qgk-Fys3M4lj4gkts",
-        "width": 430,
-        "height": 430
+        "link": "https://timeweb.com/media/3ddd916fbf8461c2248917d38ef4c02d.png",
+        "width": 905,
+        "height": 631
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagAj__WECXdQf2H5npf9KQHNQZ7_i_J37Lg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6O0me1MZ4x9MpDd5Fnh0AzuocbNHSl6gayw&usqp=CAU"
     },
     {
       "position": 65,
-      "title": "Кацуба назвал три причины, благодаря которым Украина эффективно проходит  зиму",
+      "title": "JSON Schema. Быть или не быть? / Хабр",
       "source": {
-        "name": "Гордон",
-        "link": "https://gordonua.com/news/politics/katsuba-nazval-tri-prichiny-blahodarja-kotorym-ukraina-effektivno-prokhodit-zimu-1695602.html"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/495766/"
       },
       "original": {
-        "link": "https://gordonua.com/img/article/16956/2_main-v1706192163.jpg",
-        "width": 800,
-        "height": 600
+        "link": "https://habrastorage.org/webt/8k/vm/tc/8kvmtcqmy-gmt-d_aenedkkohwo.png",
+        "width": 556,
+        "height": 662
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY2NYEUTIZrQhQrmGxXlJN-G3Q3VB8sQ2tnQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrT9cx9jElPtDyI6T6IwhK9GJsc8VN_Lnsw&usqp=CAU"
     },
     {
       "position": 66,
-      "title": "Владимир Михайлович Кацуба: биография, досье, компромат, фото и видео -  ЗНАЙ ЮА",
+      "title": "JSON Schema. Быть или не быть? / Хабр",
       "source": {
-        "name": "Znaj.ua",
-        "link": "https://znaj.ua/ru/dossier/197-volodimir-kacuba-dosye-i-kompromat"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/495766/"
       },
       "original": {
-        "link": "https://znaj.ua/crops/d4cc1c/620x0/1/0/2019/08/01/MoxGz4PTjt37nKZTQM3pgJWWofSI4vpxfdfgceVG.jpeg",
-        "width": 455,
-        "height": 340
+        "link": "https://habrastorage.org/webt/7r/xl/ho/7rxlho08got9yund-ef8z-pqsn0.png",
+        "width": 834,
+        "height": 551
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTWWMSacoI0NORimBLj7A1YLWt6HZuZHNtQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjj5Nu45EhuYaEYbIbS2AAbzO5L95-067Gqw&usqp=CAU"
     },
     {
       "position": 67,
-      "title": "Харьковский экс-нардеп сбежал за границу под видом волонтера",
+      "title": "Best JSON Formatter and JSON Validator: Online JSON Formatter",
       "source": {
-        "name": "KHARKIV Today",
-        "link": "https://2day.kh.ua/ru/politika/kharkovskiy-eks-nardep-sbezhal-za-granicu-pod-vidom-volontera"
+        "name": "jsonformatter.org",
+        "link": "https://jsonformatter.org/"
       },
       "original": {
-        "link": "https://2day.kh.ua/sites/default/files/styles/glavnoe/public/wp-content/uploads/2018/09/katsuu.jpg?h=90b13a24&itok=_UTP2NTi",
-        "width": 740,
-        "height": 380
+        "link": "https://jsonformatter.org/img/logo.webp",
+        "width": 532,
+        "height": 83
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9tSRrO08O3nzlq49EkJr2P4DSDyhryPRLfg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYj1EpL9byw1rdb8Pf7cPhKTy1iy5n9WE4jA&usqp=CAU"
     },
     {
       "position": 68,
-      "title": "В ожидании малыша апачи. Как сейчас живет поэтесса Марина Кацуба, которую  бросил шаман после плодотворной медитации | Наше счастье-жить такой судьбою  | Дзен",
+      "title": "JSON Schema. Быть или не быть? / Хабр",
       "source": {
-        "name": "Дзен",
-        "link": "https://dzen.ru/a/YFWkKHqvt1aDsIjm"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/495766/"
       },
       "original": {
-        "link": "https://avatars.dzeninfra.ru/get-zen_doc/3385201/pub_6055a4287aafb75683b088e6_6055b9d689855f0fde5fe355/scale_1200",
-        "width": 514,
-        "height": 606
+        "link": "https://habrastorage.org/webt/x6/q_/sg/x6q_sgnunckncpntu5xyf7zeu1i.png",
+        "width": 846,
+        "height": 595
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB-Bmu9nRuGx6GE2igYNSGwOlEMTldo4YsiQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIKkx7LGpJi8qGz0bZo1tJXeqyx0vrVifNA&usqp=CAU"
     },
     {
       "position": 69,
-      "title": "Украинские дроны могут заблокировать до 20% экспорта России – Александр  Кацуба",
+      "title": "Странное поведение Google Chrome | Пикабу",
       "source": {
-        "name": "Гордон",
-        "link": "https://gordonua.com/news/money/ukrainskie-drony-mohut-zablokirovat-do-20-eksporta-rossii-aleksandr-katsuba-1677070.html"
+        "name": "Пикабу",
+        "link": "https://pikabu.ru/story/strannoe_povedenie_google_chrome_6463407"
       },
       "original": {
-        "link": "https://gordonua.com/img/article/16770/70_main-v1691777993.jpg",
-        "width": 800,
-        "height": 600
+        "link": "https://cs10.pikabu.ru/post_img/big/2019/01/29/5/154874200318711263.jpg",
+        "width": 1468,
+        "height": 901
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ygb0TLNkB1-gvCBIDshK5olMfgcp_HIvvg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpz6Qk0v2rGlBUSpvJiB1jFWgfUENQPhVOQ&usqp=CAU"
     },
     {
       "position": 70,
-      "title": "Марина Кацуба: о себе и своей карьере. Личная жизнь победительницы Versus  Battle на PEOPLETALK",
+      "title": "JSON Schema. Быть или не быть? / Хабр",
       "source": {
-        "name": "Peopletalk",
-        "link": "https://peopletalk.ru/article/pervaya-devushka-pobeditel-versus-battle-marina-katsuba-my-s-oksimironom-bolshe-ne-obshhaemsya/"
+        "name": "Habr",
+        "link": "https://habr.com/ru/articles/495766/"
       },
       "original": {
-        "link": "https://st.peopletalk.ru/wp-content/uploads/2018/02/051014helicopterride2-1.jpg",
-        "width": 610,
-        "height": 337
+        "link": "https://habrastorage.org/webt/xf/ul/rs/xfulrsikpxf6wawcwtkww5phiew.png",
+        "width": 1031,
+        "height": 343
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuK3di4HymGRPNHJ3z4FF5qpUP3IUFHsjow&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShXZB4biJyi2_ASC0-_PF3eJH5_rQpFbIGfg&usqp=CAU"
     },
     {
       "position": 71,
-      "title": "Александр Кацуба: что известно о владельце АЛЬФА ГАЗ? - Кіровоград -  Кропивницький",
+      "title": "Группа «JSON» — Документация ROBIN PLATFORM 2.0",
       "source": {
-        "name": "Кіровоград - Кропивницький",
-        "link": "https://kirovograd.net/ukrayina/10242/"
+        "name": "wiki.rpa-robin.ru",
+        "link": "https://wiki.rpa-robin.ru/ActionsExamples/JSON.html"
       },
       "original": {
-        "link": "https://kirovograd.net/wp-content/uploads/2024/04/znimok-ekrana-2024-04-08-o-10.14.20-1600x1042.jpg",
-        "width": 1600,
-        "height": 1042
+        "link": "https://wiki.rpa-robin.ru/_images/J57.png",
+        "width": 392,
+        "height": 227
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xJ-cN5lEMZdXq3wtpkJ-G2tI1iSTKdNOwg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzQEz1qrtfgbk1bj_jyaAGSfk7CFzyjrFkYw&usqp=CAU"
     },
     {
       "position": 72,
-      "title": "Станислав Кацуба | ХК «Барс»",
+      "title": "javascript - How do I handle newlines in JSON? - Stack Overflow",
       "source": {
-        "name": "ХК «Барс - Ак Барс",
-        "link": "https://bars.ak-bars.ru/players/159"
+        "name": "Stack Overflow",
+        "link": "https://stackoverflow.com/questions/42068/how-do-i-handle-newlines-in-json"
       },
       "original": {
-        "link": "https://www.ak-bars.ru/uploads/843/players/web/card/37944e882931973d21159ac98536ada4.jpg",
-        "width": 300,
-        "height": 400
+        "link": "https://www.gravatar.com/avatar/033d31544a84b364c2d7180cd5619b34?s=64&d=identicon&r=PG",
+        "width": 64,
+        "height": 64
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBny5iVlS6Q3ZtQZc8lTAXl6IVHyl_FrsCrw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1afrZKo0vsPiB40qMwBF-o3-6P3CEc1AQzQ&usqp=CAU"
     },
     {
       "position": 73,
-      "title": "Кацуба Андрей Александрович, кардиолог - 2 отзыва | Москва - ПроДокторов",
+      "title": "Не обновить и не создать записи. Ответ не является допустимым ответом JSON?  — Хабр Q&A",
       "source": {
-        "name": "ПроДокторов",
-        "link": "https://prodoctorov.ru/moskva/vrach/849221-kacuba/"
+        "name": "Хабр Q&A - Habr",
+        "link": "https://qna.habr.com/q/686520"
       },
       "original": {
-        "link": "https://prodoctorov.ru/media/photo/moskva/doctorimage/849221/1418603-849221-kacuba_square.jpg",
-        "width": 300,
-        "height": 300
+        "link": "https://habrastorage.org/webt/5d/d7/a4/5dd7a439496e5858185554.png",
+        "width": 1920,
+        "height": 869
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfqXZBF_n2XkV0sqxXBsIxe0kLBs7viGA1hg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1PLsFToaN7F1VHpaEQ7mZNhQYBTK0wxE_w&usqp=CAU"
     },
     {
       "position": 74,
-      "title": "Александр Кацуба, бизнесмен и политик",
+      "title": "Почему $_POST оказывается пустым (axios)? — Хабр Q&A",
       "source": {
-        "name": "dumka.media",
-        "link": "https://dumka.media/rus/dossier/katsuba-oleksandr-volodimirovich"
+        "name": "Хабр Q&A - Habr",
+        "link": "https://qna.habr.com/q/623962"
       },
       "original": {
-        "link": "https://dumka.media/static/img/w/x/wxxav0o12turgppbmwvbdh3qwljbb4f0qcvvgwvl_512x290.jpg",
-        "width": 512,
-        "height": 290
+        "link": "https://habrastorage.org/webt/5c/b9/8a/5cb98ae2481c7134243194.jpeg",
+        "width": 757,
+        "height": 205
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKYvCA3ld3cUXK1d2MZX3GpenvyBy12ryzUg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5jstBCsebQf2ZqamKiorPGziDHDvigFC3_Q&usqp=CAU"
     },
     {
       "position": 75,
-      "title": "Фотограф Валерий Кацуба",
+      "title": "javascript - How do I handle newlines in JSON? - Stack Overflow",
       "source": {
-        "name": "Photographer.Ru",
-        "link": "https://www.photographer.ru/resources/names/photographers/149.htm"
+        "name": "Stack Overflow",
+        "link": "https://stackoverflow.com/questions/42068/how-do-i-handle-newlines-in-json"
       },
       "original": {
-        "link": "https://pics.photographer.ru/pictures/53083.jpg",
-        "width": 708,
-        "height": 386
+        "link": "https://www.gravatar.com/avatar/825e0798f09195e2838bb7581b2bbbe1?s=64&d=identicon&r=PG",
+        "width": 64,
+        "height": 64
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQxzZJmhiSERVPMp1mNRBt-z2k3SG_7IBPtw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPMlGRrVQuPaJ5BD3Xzj0vtrdyXMQ0S2AQGw&usqp=CAU"
     },
     {
       "position": 76,
-      "title": "Александр Кацуба: «Бойко Бойко», судебная битва за более чем 100 миллионов,  предпринимательство и филантропия в военное время - Daily News Венгрия",
+      "title": "XML JSON преобразователь",
       "source": {
-        "name": "Daily News Hungary",
-        "link": "https://dailynewshungary.com/ru/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0-%D0%91%D0%BE%D0%B9%D0%BA%D0%BE%D1%81-%D0%B2%D0%BE%D0%B7%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D1%81%D1%83%D0%B4%D0%B5%D0%B1%D0%BD%D1%83%D1%8E-%D1%82%D1%8F%D0%B6%D0%B1%D1%83-%D0%B7%D0%B0-100-%D0%BC%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0-%D0%B8-%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B2-%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/"
+        "name": "Инфостарт",
+        "link": "https://infostart.ru/1c/tools/685175/"
       },
       "original": {
-        "link": "https://contentf5.dailynewshungary.com/wp-content/uploads/2023/12/katsuba.jpg",
-        "width": 1660,
-        "height": 1120
+        "link": "https://infostart.ru/upload/iblock/7a8/7a8ec7c3bb68ebe44bedbf405ca13fa0.png",
+        "width": 971,
+        "height": 729
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVEXFGrubMi92mG7XCnGyK8DQWWMqHGV076A&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStPzb2SWuQ0bYJ9fWUckVfst_XtpTTaiTsQA&usqp=CAU"
     },
     {
       "position": 77,
-      "title": "Кацуба Андрей Александрович",
+      "title": "Гибкая схема хранения данных в MySQL (JSON) / Хабр",
       "source": {
-        "name": "Медицинский центр «Эммаклиник",
-        "link": "https://emmaclinic.ru/vrachi/kacuba/"
+        "name": "Habr",
+        "link": "https://habr.com/ru/companies/oleg-bunin/articles/443422/"
       },
       "original": {
-        "link": "https://emmaclinic.ru/assets/images/docs/kacuba.jpg",
-        "width": 900,
-        "height": 1196
+        "link": "https://habrastorage.org/webt/wz/n0/ph/wzn0phesbal_lwsjutyiy3569jq.jpeg",
+        "width": 1000,
+        "height": 500
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6iBGoComec6mER4hBRhchxrywDYtuY0hxbQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjq_OFsb6bwDxJ0htI7bDHtLat4i7KExEL1g&usqp=CAU"
     },
     {
       "position": 78,
-      "title": "Олександр Кацуба купив продажний суд щоб забрати 100 млн. у держави -  SPROTYV.org",
+      "title": "Ответы на вопросы на собеседование JSON. | Вопросы на собеседование Junior  Java Developer.",
       "source": {
-        "name": "SPROTYV.org",
-        "link": "https://sprotyv.org/oleksandr-katsuba-kupyv-prodazhnyj-sud-shhob-vyvesty-svoyi-groshi-z-pid-areshtu/"
+        "name": "Вопросы на собеседование Junior Java Developer.",
+        "link": "https://jsehelper.blogspot.com/2016/04/json.html"
       },
       "original": {
-        "link": "https://sprotyv.org/wp-content/uploads/2023/09/aleksandr-kaczuba-.jpg",
-        "width": 918,
-        "height": 544
+        "link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1VZYOnBnlCjgCfX_uuCukeQPgg33K4qJil6xQfPpbzkVXdMMOINHHIjowh3tK6UtJ2IpLPJmSxdQfrLTrlHK8UrC4lYBfC0gZ0WYSQ72cwS_GZ4S3bLeNW-n6jqQy-XbHoxuzkMnR5w/s1600/q004_p01.jpg",
+        "width": 583,
+        "height": 328
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAVTmgF6UU4m6fp8x-Lx2XzDKICx3ogMAiWA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3e_BTj1j-LwOJmBySf524TBeDlNSoepTYfw&usqp=CAU"
     },
     {
       "position": 79,
-      "title": "Марина Кацуба / Психология / Медицина Перу (@marina_kacuba) • Instagram  photos and videos",
+      "title": "php - json_encode не ставит квадратную скобку - Stack Overflow на русском",
       "source": {
-        "name": "Instagram",
-        "link": "https://www.instagram.com/marina_kacuba/"
+        "name": "Stack Overflow на русском",
+        "link": "https://ru.stackoverflow.com/questions/1293581/json-encode-%D0%BD%D0%B5-%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%83%D1%8E-%D1%81%D0%BA%D0%BE%D0%B1%D0%BA%D1%83"
       },
       "original": {
-        "link": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2939417578804237016",
-        "width": 1440,
-        "height": 1800
+        "link": "https://i.stack.imgur.com/LFXkx.png",
+        "width": 295,
+        "height": 106
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-_J4wjgYSw6TAOsPmpWn-KTnE4JZ_FJeShw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtGTBvDPeWu-dk7foV2kuH8gm7-M5s69BqKQ&usqp=CAU"
     },
     {
       "position": 80,
-      "title": "Поезд - song and lyrics by Марина Кацуба, Анастасия Кушнарова | Spotify",
+      "title": "Що таке JSON | Навіщо потрібен цей формат",
       "source": {
-        "name": "Spotify",
-        "link": "https://open.spotify.com/track/5h5vZRz4VQAqUYmV9vxxGd"
+        "name": "Apix-Drive",
+        "link": "https://apix-drive.com/ua/blog/useful/scho-take-json"
       },
       "original": {
-        "link": "https://i.scdn.co/image/ab67616d0000b27302b97f08ca054e40f12d16ba",
-        "width": 640,
-        "height": 640
+        "link": "https://apix-drive.com/media/blogimg/w720/ua/fb741a3dfe8de73abffc5f9f3aab8494.jpg",
+        "width": 720,
+        "height": 810
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqpHq3ljAMF6fcyS3qyyk22qlyuXbRrPjSg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkjFZrqF6HMVGSMRlEBOMOG4qn7OvoEWKwhg&usqp=CAU"
     },
     {
       "position": 81,
-      "title": "Владимир Михайлович Кацуба: биография, досье, компромат, фото и видео -  ЗНАЙ ЮА",
+      "title": "JSON и UnJSON в 1С (версия от 27/11/2009)",
       "source": {
-        "name": "Znaj.ua",
-        "link": "https://znaj.ua/ru/dossier/197-volodimir-kacuba-dosye-i-kompromat"
+        "name": "Инфостарт",
+        "link": "https://infostart.ru/1c/tools/61194/"
       },
       "original": {
-        "link": "https://znaj.ua/crops/f86138/620x0/1/0/2019/08/01/HPqHRsyuvPYP8tZlaJmmLkHSDJtm3vPgXiozJB2I.jpeg",
-        "width": 620,
-        "height": 878
+        "link": "https://infostart.ru/upload/iblock/c8e/4.jpg",
+        "width": 790,
+        "height": 438
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmVN8yptbLXCpmHialtpquoIkvPpr02L0GA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsaY8upcwEdgatVktgE4iGEJYFTr0c7IENiw&usqp=CAU"
     },
     {
       "position": 82,
-      "title": "Кто такая Марина Кацуба? | Аргументы и Факты",
+      "title": "javascript - How do I handle newlines in JSON? - Stack Overflow",
       "source": {
-        "name": "Аргументы и Факты",
-        "link": "https://aif.ru/society/people/kto_takaya_marina_kacuba"
+        "name": "Stack Overflow",
+        "link": "https://stackoverflow.com/questions/42068/how-do-i-handle-newlines-in-json"
       },
       "original": {
-        "link": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2397522689224264534",
-        "width": 1440,
-        "height": 1800
+        "link": "https://www.gravatar.com/avatar/55669769ad874d44d37eccc44d267261?s=64&d=identicon&r=PG",
+        "width": 64,
+        "height": 64
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3TAvKgBt6OYxaHpOyAlZU22ZmiCtMqtMOw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwh_rdzGY8Piq1_BJ5ZNxFcFaUt6Rs-jNAhw&usqp=CAU"
     },
     {
       "position": 83,
-      "title": "Анатолий Кацуба / Стихи.ру",
+      "title": "Декодируем JSON данные с помощью json_decode() в PHP. Часть 2",
       "source": {
-        "name": "Стихи.ру",
-        "link": "https://stihi.ru/avtor/katsuba"
+        "name": "Программирование на PHP, Jquery, Ajax, Java Script, MySql",
+        "link": "https://blogprogram.ru/dekodiruem-json-dannye-s-pomoshhyu-json_decode-v-php-chast-2/"
       },
       "original": {
-        "link": "https://stihi.ru/photos/katsuba.jpg",
-        "width": 638,
-        "height": 720
+        "link": "https://blogprogram.ru/wp-content/uploads/2017/07/2.jpg",
+        "width": 544,
+        "height": 513
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1AM_PM76rDIgq5lPq0WHKfYpmpoESo4U_g&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsuD88j1Il2Fh9eL7JLlRurK0IG9TIHIfO6A&usqp=CAU"
     },
     {
       "position": 84,
-      "title": "Эксперт Кацуба рассказал о 4 секретах планирования в условиях войны | УНН",
+      "title": "Добавления JSON-LD к статьям в MODX - ИТ Шеф",
       "source": {
-        "name": "unn.ua",
-        "link": "https://unn.ua/ru/news/ekspert-katsuba-rozpoviv-pro-4-sekreti-planuvannya-v-umovakh-viyni"
+        "name": "Itchief.ru",
+        "link": "https://itchief.ru/modx/json-ld"
       },
       "original": {
-        "link": "https://img.unn.ua/img/2023/09/28/1700221553-3129-large.webp",
-        "width": 587,
-        "height": 399
+        "link": "https://itchief.ru/assets/images/modx/how-to-add-json-ld-for-articles/1.png",
+        "width": 643,
+        "height": 646
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm0rZxI8aenc4GyvsTAAIBdbAMjugbQVAyLQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSinwLSuAa18N5gehlNaDzDRhvhPmpoOPejoQ&usqp=CAU"
     },
     {
       "position": 85,
-      "title": "Эксперт Кацуба назвал ключевые слабые и сильные стороны украинской экономики",
+      "title": "Декодируем JSON данные с помощью json_decode() в PHP. Часть 2",
       "source": {
-        "name": "Гордон",
-        "link": "https://gordonua.com/news/money/ekspert-katsuba-nazval-kljuchevye-slabye-i-silnejshie-storony-ukrainskoj-ekonomiki-1696931.html"
+        "name": "Программирование на PHP, Jquery, Ajax, Java Script, MySql",
+        "link": "https://blogprogram.ru/dekodiruem-json-dannye-s-pomoshhyu-json_decode-v-php-chast-2/"
       },
       "original": {
-        "link": "https://gordonua.com/img/article/16969/31_main-v1707231266.jpg",
-        "width": 800,
-        "height": 600
+        "link": "https://blogprogram.ru/wp-content/uploads/2017/07/1.jpg",
+        "width": 198,
+        "height": 229
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRZXR_QaB5QQopUnoOT-y1O5AI1C3iig64rg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCXZ_rDod7z9yAMkCLlbK0vXYU2WiXSdQq7w&usqp=CAU"
     },
     {
       "position": 86,
-      "title": "В ожидании малыша апачи. Как сейчас живет поэтесса Марина Кацуба, которую  бросил шаман после плодотворной медитации | Наше счастье-жить такой судьбою  | Дзен",
+      "title": "JSON Checker - проверьте свой JSON-код в Интернете",
       "source": {
-        "name": "Дзен",
-        "link": "https://dzen.ru/a/YFWkKHqvt1aDsIjm"
+        "name": "JSONOnline.net",
+        "link": "https://jsononline.net/ru/json-checker"
       },
       "original": {
-        "link": "https://avatars.dzeninfra.ru/get-zen_doc/57035/pub_6055a4287aafb75683b088e6_6055b9607aafb75683c3fda6/scale_1200",
-        "width": 590,
-        "height": 455
+        "link": "https://jsononline.net/themes/JsonOnline/images/json-checker/example.svg",
+        "width": 560,
+        "height": 422
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0d2KSsFDMe49J22xZaXdcp0TUuGsOoDzXQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD_-EE-7xaA2h5EppxLSQz4QjpLF2d1gccPA&usqp=CAU"
     },
     {
       "position": 87,
-      "title": "Экс-менеджер \"Нафтогаза\" Александр Кацуба вернулся на рынок газа, — СМИ -  Региональные новости",
+      "title": "How to use $jsonSchema operator in MongoDB",
       "source": {
-        "name": "META.ua",
-        "link": "https://news.meta.ua/news/eks-menedzher-naftogaza-aleksandr-katsuba-vernulsia-na-rynok-gaza-smi-6848529/"
+        "name": "Linux Hint",
+        "link": "https://linuxhint.com/jsonschema-operator-mongodb/"
       },
       "original": {
-        "link": "https://newscdn.meta.ua/pics/38/37/3837620-0_360x400.webp",
-        "width": 360,
-        "height": 400
+        "link": "https://linuxhint.com/wp-content/uploads/2021/11/text-description-automatically-generated-45.png",
+        "width": 607,
+        "height": 393
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0S6ZuisNgAwNJpBS-6QCwafXxHq3Cymv4VA&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVIichc3RK6ASW4xXN_z8GQf9Pd6DQEHYMw&usqp=CAU"
     },
     {
       "position": 88,
-      "title": "МАРИНА КАЦУБА | Мумий Тролль Music Bar",
+      "title": "Код ошибки ->> count(): Parameter must be an array or an object that  implements Countable | screen17.ru",
       "source": {
-        "name": "Мумий Тролль Music Bar",
-        "link": "https://mumiytrollbar.com/events/39880"
+        "name": "Мануалы, драйвера, сайты",
+        "link": "https://screen17.ru/kod-oshibki-count-parameter-must-be-an-array-or-an-object-that-implements-countable/"
       },
       "original": {
-        "link": "https://mumiytrollbar.com/wp-content/uploads/2023/02/%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%9A%D0%B0%D1%86%D1%83%D0%B1%D0%B0.jpg",
-        "width": 1000,
-        "height": 1000
+        "link": "https://mb4.ru/images/articles/phpMyAdmin/0008.jpg",
+        "width": 985,
+        "height": 627
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDGgnatHsDLbUYi1PYyBGigQcQYhUtjj-Jbg&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkENme3v4oErgwVkWLrx8Gz3l_i7iRACSWpw&usqp=CAU"
     },
     {
       "position": 89,
-      "title": "Кацуба предложил бизнесу и государству \"начать все с чистого листа\" -  Бессарабия INFORM",
+      "title": "json формат - что такое и с помощью чего открыть [2020]",
       "source": {
-        "name": "Бессарабия ИНФОРМ",
-        "link": "https://ru.bessarabiainform.com/2024/02/katsuba-zaproponuvav-biznesu-i-derzhavi-pochaty-vse-z-chystoho-arkushu/"
+        "name": "Mobila.guru",
+        "link": "https://mobila.guru/faqsingle/json-format/"
       },
       "original": {
-        "link": "https://bessarabiainform.com/wp-content/uploads/2024/02/aleksandr-katsuba.jpg",
-        "width": 1404,
-        "height": 1600
+        "link": "https://mobila.guru/wp-content/uploads/2019/09/JavaScript-e1569778194713.jpg",
+        "width": 640,
+        "height": 480
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQ2x9usIFT6k_in5pCAnYp9-ihNLl2KRAgw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpmxTcHtD78OTsVKjb9LGTvtGJ8oHlVBtLw&usqp=CAU"
     },
     {
       "position": 90,
-      "title": "Александр Кацуба: Как Украине выдержать следующую зиму - Новости на KP.UA",
+      "title": "Разница между JSON и XML.",
       "source": {
-        "name": "KP.UA",
-        "link": "https://kp.ua/economics/a689502-aleksandr-katsuba-kak-ukraine-vyderzhat-sledujushchuju-zimu"
+        "name": "Компьютеры и Интернет - Компьютеры и Интернет",
+        "link": "https://mega-obzor.ru/raznica-mezhdu-json-i-xml.html"
       },
       "original": {
-        "link": "https://kp.ua/img/article/6895/2_news_big-v1714410461.webp",
-        "width": 900,
-        "height": 470
+        "link": "https://mega-obzor.ru/wp-content/uploads/2018/03/JSON-and-XML-difference-between.png",
+        "width": 500,
+        "height": 393
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1xSu5X8Zwoj7tnVPrwBbFluOKp8s0DHNfQ&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVa12JCR3D_5OFcc-vWMi42SDMMmAdMzqf1g&usqp=CAU"
     },
     {
       "position": 91,
-      "title": "Кацуба всё: министр финансов из команды Ишаева покинул «Белый дом» —  Новости Хабаровска",
+      "title": "Получение \"'mongoimport' не распознается как внутренняя или внешняя  команда, операционная программа или пакетный файл\", когда вы пытаетесь  импортировать данные из файла. - CodeRoad",
       "source": {
-        "name": "Новости Хабаровска",
-        "link": "https://www.dvnovosti.ru/khab/2020/02/03/110199/"
+        "name": "CodeRoad",
+        "link": "https://coderoad.ru/31055637/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-mongoimport-%D0%BD%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D0%BA%D0%B0%D0%BA-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F-%D0%B8%D0%BB%D0%B8-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0"
       },
       "original": {
-        "link": "https://static.vl.ru/news/1580714857745_default",
-        "width": 229,
-        "height": 153
+        "link": "https://i.stack.imgur.com/1rHRN.png",
+        "width": 754,
+        "height": 400
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSflegtE3ohBeCbHWcbGkp3nYRN9cXyylxlig&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmhdnfrL4lb9PTIyv-G0JIGaBmodrYPxfHNQ&usqp=CAU"
     },
     {
       "position": 92,
-      "title": "Марина Кацуба | ВКонтакте",
+      "title": "json-сервер не распознан как внутренняя или внешняя команда - CodeRoad",
       "source": {
-        "name": "ВКонтакте",
-        "link": "https://vk.com/marinakacuba"
+        "name": "CodeRoad",
+        "link": "https://coderoad.ru/55547572/json-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80-%D0%BD%D0%B5-%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD-%D0%BA%D0%B0%D0%BA-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F-%D0%B8%D0%BB%D0%B8-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D1%8F%D1%8F-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0"
       },
       "original": {
-        "link": "https://sun9-49.userapi.com/impg/eYj_C20TjCEm089EO3vBmzAUi1nxDzpWopWvNQ/yztFluEpG0U.jpg?size=807x807&quality=95&sign=807ced7a0b31fc3fd6bd41f3cb0b46bc&c_uniq_tag=L3uvYQDGhQmGShrWowhb9GdxBK-n2x35GATPQ4iJy9Y&type=album",
-        "width": 807,
-        "height": 807
+        "link": "https://i.stack.imgur.com/jdhD9.png",
+        "width": 949,
+        "height": 620
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEA5HLV-wg7FBKZ685sKKJ72MFQQ4kR4VIIw&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmea5aESPix6DZ9HgwvqPBhyrE1dmb4enYhg&usqp=CAU"
     },
     {
       "position": 93,
-      "title": "Кацуба Александр Станиславович - Первый заместитель Председателя  Правительства - Биография",
+      "title": "Программирование разветвляющихся алгоритмов. Начала программирования. Общий  вид условного оператора - презентация онлайн",
       "source": {
-        "name": "Rus.team",
-        "link": "https://rus.team/people/katsuba-aleksandr-stanislavovich"
+        "name": "ppt Онлайн",
+        "link": "https://ppt-online.org/733613"
       },
       "original": {
-        "link": "https://rus.team/images/article/55179/2019-08-15-165_89239-1_617965.webp",
-        "width": 900,
-        "height": 600
-      },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuGS10-m4LGLlXkTaoXMZXzwdzpUn3Fvlc8g&usqp=CAU"
-    },
-    {
-      "position": 94,
-      "title": "Александр Кацуба: Диджитализация меняет правила | EconomistUA",
-      "source": {
-        "name": "EconomistUA",
-        "link": "https://economistua.com/rus/aleksandr-katsuba-dydzhytalyzatsyya-menyaet-pravyla/"
-      },
-      "original": {
-        "link": "https://economistua.com/rus/wp-content/uploads/2023/09/photo_2023-09-27_11-00-54.jpg",
-        "width": 382,
-        "height": 573
-      },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnYALPq7WnOZv2PCJyx0szo2_3UzpxEvui6g&usqp=CAU"
-    },
-    {
-      "position": 95,
-      "title": "Александр Кацуба: что известно о владельце АЛЬФА ГАЗ? » Храбро — обо всем",
-      "source": {
-        "name": "Храбро",
-        "link": "https://hrabro.od.ua/14601-aleksandr-kacuba-chto-izvestno-o-vladelce-alfa-gaz.html"
-      },
-      "original": {
-        "link": "https://hrabro.od.ua/uploads/posts/2024-04/1712564023__1.jpg",
+        "link": "https://cf2.ppt-online.org/files2/slide/t/tQpOFnerYP1KEVJTyvBxusCwa7NSIb28ijz63X/slide-6.jpg",
         "width": 1024,
-        "height": 760
+        "height": 767
       },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwWinlLNXjspbPPoCBCSkFTHhh_zA8aBDk1g&usqp=CAU"
-    },
-    {
-      "position": 96,
-      "title": "Экс-менеджер \"Нафтогазу\" Александр Кацуба вернулся на рынок газа – СМИ",
-      "source": {
-        "name": "Гордон",
-        "link": "https://gordonua.com/news/money/eks-menedzher-naftohaza-aleksandr-katsuba-vernulsja-na-rynok-haza-smi-1702974.html"
-      },
-      "original": {
-        "link": "https://gordonua.com/img/article/17029/74_main-v1712147982.jpg",
-        "width": 800,
-        "height": 600
-      },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxcr501KT8PYyG30WV7xI0StMsfOGrxPyyQ&usqp=CAU"
-    },
-    {
-      "position": 97,
-      "title": "Финансовый спрут. Дело Кацубы и краевого правительства << Суд, Криминал,  Прокуратура | Дебри-ДВ",
-      "source": {
-        "name": "Дебри-ДВ",
-        "link": "http://www.debri-dv.ru/article/2018"
-      },
-      "original": {
-        "link": "http://www.debri-dv.ru/filedata/images_small/2592.jpg",
-        "width": 280,
-        "height": 389
-      },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKAmHYjz01is4UF1yp-iZ5hcL8huSuxUnew&usqp=CAU"
-    },
-    {
-      "position": 98,
-      "title": "Валерий Кацуба - Overview | Anna Nova Gallery",
-      "source": {
-        "name": "Anna Nova Gallery",
-        "link": "https://www.annanova-gallery.ru/artists/208-/overview/"
-      },
-      "original": {
-        "link": "https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/ws-annanovagallery/usr/images/artists/group_images_override/items/66/6647e2326afa4341852f8718c400f834/valery-katsuba-by-luca-s.-lo-pez-p7131223-1-1-.jpg",
-        "width": 1200,
-        "height": 1200
-      },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrwNev5yoGBLpGlDa_mkWI--XKlmbP0BMvdQ&usqp=CAU"
-    },
-    {
-      "position": 99,
-      "title": "Валерий Кацуба. Физкульт-привет!",
-      "source": {
-        "name": "Foto&Video",
-        "link": "http://www.foto-video.ru/art/portfolio/19043/"
-      },
-      "original": {
-        "link": "http://www.foto-video.ru/upload/iblock/00c/1.jpg",
-        "width": 597,
-        "height": 600
-      },
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2aTBNVO_cRyecgubxqy9PbUaQEiobDU8lhg&usqp=CAU"
-    }
-  ],
-  "related_searches": [
-    {
-      "link": "https://www.google.com/search?q=%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0+%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQrNwCKAB6BAgBEHc",
-      "query": "марина кацуба",
-      "highlighted": [
-        "марина"
-      ],
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkrCXpS_2chCeG6wdoHMyHKHt2kO34T7DhR3bG3puA1GLYTEcC&usqp=CAU"
-    },
-    {
-      "link": "https://www.google.com/search?q=%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQrNwCKAB6BAgBEHk",
-      "query": "александр",
-      "highlighted": [
-        "александр"
-      ],
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRSvixJBzs73vmTKh95MIooUwTu3M_UXH_8R4Q1kdPcN42Rg6&usqp=CAU"
-    },
-    {
-      "link": "https://www.google.com/search?q=%D0%BC%D0%B0%D1%80%D0%B8%D1%8F+%D0%BA%D0%B0%D1%86%D1%83%D0%B1%D0%B0&tbm=isch&hl=en&gl=us&sa=X&ved=2ahUKEwiVop_0uvmFAxXWCVkFHRc9C7oQrNwCKAB6BAgBEHs",
-      "query": "мария кацуба",
-      "highlighted": [
-        "мария"
-      ],
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVzw7MLBWl2fUgAbOGoDrqYQ8z-tn4V30iVNF5RmmOzg-IyzS&usqp=CAU"
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOpyYTyTx3YGUxTLYQgVeH0knUExy24jVjxg&usqp=CAU"
     }
   ]
 }
