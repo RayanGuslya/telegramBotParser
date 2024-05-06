@@ -1,2 +1,3 @@
+#telegramParsGoogleImage
 Бот который парсит картинку с гугла
-парсил при помощи - https://www.searchapi.io/
+api ключ можно получить тут - https://www.searchapi.io/
