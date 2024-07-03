@@ -23,8 +23,8 @@ public class CommandBot extends TelegramLongPollingBot {
     //имя SearchBot
     private String apiKey = "RnNhqRCNnS7GhvhuFkeFQM7e";// запасной ключ - RnNhqRCNnS7GhvhuFkeFQM7e
     private String nameImg;
-    private final String userName = "SearchBot";
-    private final String botToken = "6687958514:AAHPof24eaUsNvlOYc4Y8a0FzhH18bx2DX8";
+    private final String userName = "тут имя бота";
+    private final String botToken = "тут должен быть ваш токен бота";
     @Override
     public String getBotUsername() {
         return userName;
